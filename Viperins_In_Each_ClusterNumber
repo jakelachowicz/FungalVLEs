@@ -1,0 +1,3142 @@
+>Cluster 0
+0	216aa, Homo_sapiens
+1	216aa, Homo_sapiens
+2	216aa, Homo_sapiens
+3	216aa, Gorilla_gorilla_gorilla
+4	216aa, Pan_paniscus
+5	216aa, Pan_troglodytes
+6	216aa, Pongo_pygmaeus
+7	216aa, Hylobates_agilis
+8	216aa, Pongo_abelii
+9	216aa, Nomascus_leucogenys
+10	216aa, Macaca_mulatta
+11	216aa, Rhinopithecus_roxellana
+12	216aa, Rhinopithecus_bieti
+13	216aa, Papio_anubis
+14	216aa, Macaca_fascicularis
+15	216aa, Colobus_angolensis_palliatus
+16	216aa, Theropithecus_gelada
+17	216aa, Colobus_guereza_kikuyuensis
+18	216aa, Cercocebus_atys
+19	216aa, Plecturocebus_moloch
+20	216aa, Cebus_imitator
+21	216aa, Lagothrix_lagotricha
+22	216aa, Sapajus_apella
+23	216aa, Aotus_trivirgatus
+24	216aa, Symphalangus_syndactylus
+25	216aa, Symphalangus_syndactylus
+26	216aa, Hylobates_moloch
+27	216aa, Piliocolobus_tephrosceles
+28	216aa, Chlorocebus_aethiops
+29	216aa, Chlorocebus_sabaeus
+30	216aa, Saimiri_boliviensis_boliviensis
+31	216aa, Trachypithecus_francoisi
+32	216aa, Cercopithecus_nictitans
+33	216aa, Saguinus_oedipus
+34	216aa, Propithecus_coquereli
+35	216aa, Ateles_geoffroyi
+36	216aa, Aotus_nancymaae
+37	216aa, Callithrix_jacchus
+38	216aa, Cebuella_pygmaea
+39	216aa, Loxodonta_africana
+40	216aa, Elephas_maximus_indicus
+41	216aa, Chrysochloris_asiatica
+42	216aa, Microcebus_murinus
+43	216aa, Choloepus_didactylus
+44	216aa, Ceratotherium_simum_simum
+45	216aa, Orycteropus_afer_afer
+46	216aa, Diceros_bicornis_minor
+47	216aa, Diceros_bicornis_minor
+48	216aa, Zalophus_californianus
+49	216aa, Nycticebus_coucang
+50	216aa, Carlito_syrichta
+51	216aa, Callorhinus_ursinus
+52	216aa, Phoca_vitulina
+53	216aa, Otolemur_garnettii
+54	216aa, Odobenus_rosmarus_divergens
+55	216aa, Halichoerus_grypus
+56	216aa, Nyctereutes_procyonoides
+57	216aa, Vulpes_lagopus
+58	216aa, Ursus_americanus
+59	216aa, Vulpes_vulpes
+60	216aa, Puma_yagouaroundi
+61	216aa, Hippopotamus_amphibius_kiboko
+62	216aa, Felis_catus
+63	216aa, Mirounga_leonina
+64	216aa, Puma_concolor
+65	216aa, Phacochoerus_africanus
+66	216aa, Marmota_flaviventris
+67	216aa, Canis_lupus_dingo
+68	216aa, Pteropus_alecto
+69	216aa, Ursus_arctos
+70	216aa, Enhydra_lutris_kenyoni
+71	216aa, Canis_lupus_familiaris
+72	216aa, Ursus_maritimus
+73	216aa, Ailuropoda_melanoleuca
+74	216aa, Urocitellus_parryii
+75	216aa, Acinonyx_jubatus
+76	216aa, Leopardus_geoffroyi
+77	216aa, Oryx_dammah
+78	216aa, Prionailurus_viverrinus
+79	216aa, Muntiacus_reevesi
+80	216aa, Rangifer_tarandus_platyrhynchus
+81	216aa, Mirounga_leonina
+82	216aa, Lontra_canadensis
+83	216aa, Marmota_monax
+84	216aa, Odocoileus_virginianus_texanus
+85	216aa, Marmota_monax
+86	216aa, Neofelis_nebulosa
+87	216aa, Mustela_erminea
+88	216aa, Balaenoptera_ricei
+89	216aa, Mustela_nigripes
+90	216aa, Bubalus_carabanensis
+91	216aa, Sus_scrofa
+92	216aa, Oryctolagus_cuniculus
+93	216aa, Muntiacus_muntjak
+94	216aa, Ovis_aries
+95	216aa, Bison_bison_bison
+96	216aa, Bubalus_bubalis
+97	216aa, Bos_taurus
+98	216aa, Pteropus_giganteus
+99	216aa, Budorcas_taxicolor
+100	216aa, Panthera_tigris
+101	216aa, Balaenoptera_musculus
+102	216aa, Ictidomys_tridecemlineatus
+103	216aa, Mustela_putorius_furo
+104	216aa, Capra_hircus
+105	216aa, Moschus_berezovskii
+106	216aa, Neogale_vison
+107	216aa, Ovis_ammon_polii_x_Ovis_aries
+108	216aa, Mustela_lutreola
+109	216aa, Hipposideros_armiger
+110	216aa, Marmota_monax
+111	216aa, Sus_scrofa
+112	216aa, Lynx_canadensis
+113	216aa, Gulo_gulo_luscus
+114	216aa, Marmota_marmota_marmota
+115	216aa, Capra_hircus
+116	216aa, Cervus_canadensis
+117	216aa, Panthera_leo
+118	216aa, Balaenoptera_acutorostrata
+119	216aa, Cervus_elaphus
+120	216aa, Ovis_ammon_polii_x_Ovis_aries
+121	216aa, Dasypus_novemcinctus
+122	216aa, Mus_caroli
+123	216aa, Neomonachus_schauinslandi
+124	216aa, Lynx_rufus
+125	216aa, Manis_pentadactyla
+126	216aa, Balaenoptera_physalus
+127	216aa, Meles_meles
+128	216aa, Manis_pentadactyla
+129	216aa, Ovis_aries
+130	216aa, Mus_musculus
+131	216aa, Mus_musculus
+132	216aa, Mus_musculus
+133	216aa, Mus_musculus
+134	216aa, Mesoplodon_densirostris
+135	216aa, Mustela_putorius_furo
+136	216aa, Capra_hircus
+137	216aa, Mus_musculus
+138	216aa, Mus_musculus
+139	216aa, Mus_musculus
+140	216aa, Mus_musculus
+141	216aa, Rhinolophus_ferrumequinum
+142	216aa, Mus_musculus
+143	216aa, Mus_musculus
+144	216aa, Mus_pahari
+145	216aa, Neophocaena_asiaeorientalis_asiaeorientalis
+146	216aa, Mus_musculus
+147	216aa, Mus_musculus
+148	216aa, Octodon_degus
+149	216aa, Apodemus_sylvaticus
+150	216aa, Mus_musculus
+151	216aa, Homo_sapiens
+152	216aa, Mus_musculus
+153	216aa, Rattus_norvegicus
+154	216aa, Sousa_chinensis
+155	216aa, Mastomys_coucha
+156	216aa, Mus_musculus
+157	216aa, Cricetulus_griseus
+158	216aa, Sciurus_carolinensis
+159	216aa, Lagenorhynchus_obliquidens
+160	216aa, Rattus_norvegicus
+161	216aa, Acomys_russatus
+162	216aa, Phodopus_roborovskii
+163	216aa, Lagenorhynchus_albirostris
+164	216aa, Globicephala_melas
+165	216aa, Suncus_etruscus
+166	216aa, Physeter_catodon
+167	216aa, Lipotes_vexillifer
+168	216aa, Onychomys_torridus
+169	216aa, Orcinus_orca
+170	216aa, Arvicanthis_niloticus
+171	216aa, Chionomys_nivalis
+172	216aa, Rhinolophus_sinicus
+173	216aa, Rattus_rattus
+174	216aa, Tursiops_truncatus
+175	216aa, Echinops_telfairi
+176	216aa, Psammomys_obesus
+177	216aa, Peromyscus_californicus_insignis
+178	216aa, Meriones_unguiculatus
+179	216aa, Peromyscus_maniculatus_bairdii
+180	216aa, Nannospalax_galili
+181	216aa, Microtus_fortis
+182	216aa, Jaculus_jaculus
+183	216aa, Equus_quagga
+184	216aa, Microtus_oregoni
+185	216aa, Neotoma_lepida
+186	216aa, Mus_musculus
+187	216aa, Grammomys_surdaster
+188	216aa, Delphinus_delphis
+189	216aa, Chinchilla_lanigera
+190	216aa, Dipodomys_ordii
+191	216aa, Pteronotus_parnellii_mesoamericanus
+192	216aa, Ochotona_curzoniae
+193	216aa, Mus_musculus
+194	216aa, Mesocricetus_auratus
+195	216aa, Mus_musculus
+196	216aa, Myodes_glareolus
+197	216aa, Microtus_ochrogaster
+198	216aa, Rhinolophus_sinicus
+199	216aa, Rousettus_aegyptiacus
+200	216aa, Galeopterus_variegatus
+201	216aa, Lutra_lutra
+202	216aa, Mus_musculus
+203	216aa, Hyaena_hyaena
+204	216aa, Arvicola_amphibius
+205	216aa, Peromyscus_eremicus
+206	216aa, Erinaceus_europaeus
+207	216aa, Dipodomys_spectabilis
+208	216aa, Fukomys_damarensis
+209	216aa, Crocuta_crocuta
+210	216aa, Ochotona_princeps
+211	216aa, Smutsia_gigantea
+212	216aa, Heterocephalus_glaber
+213	216aa, Kogia_breviceps
+214	216aa, Cavia_porcellus
+215	216aa, Equus_caballus
+216	216aa, Suricata_suricatta
+217	216aa, Equus_asinus
+218	216aa, Camelus_ferus
+219	216aa, Eschrichtius_robustus
+220	216aa, Molossus_molossus
+221	216aa, Perognathus_longimembris_pacificus
+222	216aa, Dromiciops_gliroides
+223	216aa, Monodelphis_domestica
+224	216aa, Manis_javanica
+225	216aa, Sorex_araneus
+226	216aa, Tupaia_chinensis
+227	216aa, Tupaia_chinensis
+228	216aa, Heterocephalus_glaber
+229	216aa, Manis_javanica
+230	216aa, Peromyscus_leucopus
+231	216aa, Sorex_fumeus
+232	216aa, Sarcophilus_harrisii
+233	216aa, Camelus_dromedarius
+234	216aa, Vombatus_ursinus
+235	216aa, Miniopterus_natalensis
+236	216aa, Trichosurus_vulpecula
+237	216aa, Mus_musculus
+238	216aa, Camelus_dromedarius
+239	216aa, Echinops_telfairi
+240	216aa, Talpa_occidentalis
+241	216aa, Antechinus_flavipes
+242	216aa, Dermochelys_coriacea
+243	216aa, Galemys_pyrenaicus
+244	216aa, Amazona_guildingii
+245	216aa, Chelonia_mydas
+246	216aa, Tachyglossus_aculeatus
+247	216aa, Tyrannus_savana
+248	216aa, Mauremys_mutica
+249	216aa, Terrapene_carolina_triunguis
+250	216aa, Formicarius_rufipectus
+251	216aa, Galbula_dea
+252	216aa, Alopecoenas_beccarii
+253	216aa, Mauremys_reevesii
+254	216aa, Corythaixoides_concolor
+255	216aa, Baryphthengus_martii
+256	216aa, Neopelma_chrysocephalum
+257	216aa, Mionectes_macconnelli
+258	216aa, Chelonoidis_abingdonii
+259	216aa, Platysternon_megacephalum
+260	216aa, Empidonax_traillii
+261	216aa, Chloropsis_hardwickii
+262	216aa, Desmodus_rotundus
+263	216aa, Buphagus_erythrorhynchus
+264	216aa, Calyptomena_viridis
+265	216aa, Malaclemys_terrapin_pileata
+266	216aa, Charadrius_vociferus
+267	216aa, Myiozetetes_cayanensis
+268	216aa, Penelope_pileata
+269	216aa, Pachyramphus_minor
+270	216aa, Oxyruncus_cristatus
+271	216aa, Corapipo_altera
+272	216aa, Lepidothrix_coronata
+273	216aa, Caretta_caretta
+274	216aa, Rhabdornis_inornatus
+275	216aa, Willisornis_vidua
+276	216aa, Sclerurus_mexicanus
+277	216aa, Trachemys_scripta_elegans
+278	216aa, Chiroxiphia_lanceolata
+279	216aa, Pyrgilauda_ruficollis
+280	216aa, Vidua_macroura
+281	216aa, Bucco_capensis
+282	216aa, Pipra_filicauda
+283	216aa, Cuculus_canorus
+284	216aa, Monodelphis_domestica
+285	216aa, Gopherus_evgoodei
+286	216aa, Oriolus_oriolus
+287	216aa, Halcyon_senegalensis
+288	216aa, Myiagra_hebetior
+289	216aa, Locustella_ochotensis
+290	216aa, Passer_montanus
+291	216aa, Vireo_altiloquus
+292	216aa, Neopipo_cinnamomea
+293	216aa, Nycticryphes_semicollaris
+294	216aa, Indicator_maculatus
+295	216aa, Eubucco_bourcierii
+296	216aa, Campylorhamphus_procurvoides
+297	216aa, Sturnus_vulgaris
+298	216aa, Menura_novaehollandiae
+299	216aa, Oreocharis_arfaki
+300	216aa, Pomatorhinus_ruficollis
+301	216aa, Centropus_unirufus
+302	216aa, Ciccaba_nigrolineata
+303	216aa, Sula_dactylatra
+304	216aa, Corvus_cornix_cornix
+305	216aa, Rhagologus_leucostigma
+306	216aa, Falcunculus_frontatus
+307	216aa, Donacobius_atricapilla
+308	216aa, Cephalopterus_ornatus
+309	216aa, Haliaeetus_leucocephalus
+310	216aa, Aleadryas_rufinucha
+311	216aa, Irena_cyanogastra
+312	213aa, Merops_nubicus
+313	216aa, Edolisoma_coerulescens
+314	216aa, Columbina_picui
+315	216aa, Merops_nubicus
+316	216aa, Sakesphorus_luctuosus
+317	216aa, Tachuris_rubrigastra
+318	216aa, Leucopsar_rothschildi
+319	216aa, Grus_americana
+320	216aa, Eurystomus_gularis
+321	216aa, Xiphorhynchus_elegans
+322	216aa, Agelaius_phoeniceus
+323	216aa, Dicrurus_megarhynchus
+324	216aa, Serilophus_lunatus
+325	216aa, Gopherus_flavomarginatus
+326	216aa, Eolophus_roseicapilla
+327	216aa, Nyctiprogne_leucopyga
+328	216aa, Haemorhous_mexicanus
+329	216aa, Sapayoa_aenigma
+330	216aa, Tichodroma_muraria
+331	216aa, Chrysemys_picta_bellii
+332	216aa, Camarhynchus_parvulus
+333	216aa, Todus_mexicanus
+334	214aa, Cricetulus_griseus
+335	216aa, Motacilla_alba_alba
+336	216aa, Pterocles_burchelli
+337	216aa, Calcarius_ornatus
+338	216aa, Pluvianellus_socialis
+339	216aa, Crotophaga_sulcirostris
+340	216aa, Gallus_gallus
+341	216aa, Probosciger_aterrimus
+342	216aa, Rhinopomastus_cyanomelas
+343	216aa, Alaudala_cheleensis
+344	216aa, Mohoua_ochrocephala
+345	216aa, Erithacus_rubecula
+346	216aa, Elachura_formosa
+347	216aa, Gymnogyps_californianus
+348	216aa, Machaerirhynchus_nigripectus
+349	216aa, Indicator_indicator
+350	216aa, Gymnorhina_tibicen
+351	216aa, Smithornis_capensis
+352	216aa, Acrocephalus_arundinaceus
+353	216aa, Nyctibius_grandis
+354	216aa, Onychostruthus_taczanowskii
+355	216aa, Hemiprocne_comata
+356	216aa, Strigops_habroptila
+357	216aa, Lamprotornis_superbus
+358	216aa, Grallaria_varia
+359	216aa, Anthoscopus_minutus
+360	216aa, Vidua_chalybeata
+361	216aa, Parus_major
+362	216aa, Tricholaema_leucomelas
+363	216aa, Erpornis_zantholeuca
+364	216aa, Calidris_pugnax
+365	216aa, Ptilorrhoa_leucosticta
+366	216aa, Balaeniceps_rex
+367	216aa, Nyctibius_bracteatus
+368	216aa, Urocynchramus_pylzowi
+369	216aa, Heliornis_fulica
+370	216aa, Dromas_ardeola
+371	216aa, Pomatostomus_ruficeps
+372	216aa, Melospiza_melodia_maxima
+373	216aa, Gallus_gallus
+374	216aa, Ammospiza_caudacuta
+375	216aa, Pitta_sordida
+376	216aa, Dromaius_novaehollandiae
+377	216aa, Oenanthe_oenanthe
+378	216aa, Passerina_amoena
+379	216aa, Pardalotus_punctatus
+380	216aa, Buceros_rhinoceros_silvestris
+381	216aa, Spizaetus_tyrannus
+382	216aa, Calonectris_borealis
+383	216aa, Nesospiza_acunhae
+384	216aa, Spizella_passerina
+385	216aa, Pteruthius_melanotis
+386	216aa, Rhipidura_dahli
+387	216aa, Anhinga_anhinga
+388	216aa, Leiothrix_lutea
+389	216aa, Toxostoma_redivivum
+390	216aa, Atrichornis_clamosus
+391	216aa, Phaetusa_simplex
+392	216aa, Zapornia_atra
+393	216aa, Callaeas_wilsoni
+394	216aa, Panurus_biarmicus
+395	216aa, Drymodes_brunneopygia
+396	216aa, Cepphus_grylle
+397	213aa, Manacus_vitellinus
+398	216aa, Poecile_atricapillus
+399	216aa, Pseudopodoces_humilis
+400	216aa, Serinus_canaria
+401	216aa, Rostratula_benghalensis
+402	216aa, Thalassarche_chlororhynchos
+403	216aa, Rhadina_sibilatrix
+404	216aa, Anseranas_semipalmata
+405	216aa, Chlamydotis_macqueenii
+406	216aa, Picathartes_gymnocephalus
+407	216aa, Corvus_moneduloides
+408	216aa, Oenanthe_melanoleuca
+409	216aa, Rhodinocichla_rosea
+410	216aa, Poecile_atricapillus
+411	216aa, Thinocorus_orbignyianus
+412	216aa, Gavia_stellata
+413	216aa, Sylvia_atricapilla
+414	216aa, Certhia_familiaris
+415	216aa, Hypocryptadius_cinnamomeus
+416	216aa, Megadyptes_antipodes_antipodes
+417	213aa, Buceros_rhinoceros_silvestris
+418	216aa, Pelecanoides_urinatrix
+419	216aa, Cardinalis_cardinalis
+420	216aa, Dasyornis_broadbenti
+421	216aa, Pachycephala_philippinensis
+422	216aa, Haliaeetus_albicilla
+423	213aa, Chlamydotis_macqueenii
+424	216aa, Prunella_fulvescens
+425	216aa, Taeniopygia_guttata
+426	216aa, Aramus_guarauna
+427	216aa, Rynchops_niger
+428	216aa, Malurus_melanocephalus
+429	216aa, Melopsittacus_undulatus
+430	216aa, Harpia_harpyja
+431	216aa, Tyto_alba
+432	216aa, Podargus_strigoides
+433	216aa, Melanocharis_versteri
+434	216aa, Chordeiles_acutipennis
+435	216aa, Ptilonorhynchus_violaceus
+436	216aa, Caloenas_nicobarica
+437	216aa, Falco_peregrinus
+438	216aa, Loxia_curvirostra
+439	216aa, Onychorhynchus_coronatus
+440	216aa, Malurus_elegans
+441	216aa, Glareola_pratincola
+442	216aa, Melozone_crissalis
+443	216aa, Pheucticus_melanocephalus
+444	216aa, Platysteira_castanea
+445	216aa, Nicator_chloris
+446	213aa, Charadrius_vociferus
+447	216aa, Emberiza_fucata
+448	216aa, Oceanites_oceanicus
+449	216aa, Ceyx_cyanopectus
+450	216aa, Falco_cherrug
+451	216aa, Erythrocercus_mccallii
+452	216aa, Aptenodytes_patagonicus
+453	216aa, Callipepla_squamata
+454	216aa, Melospiza_georgiana
+455	216aa, Oceanodroma_tethys
+456	216aa, Peucedramus_taeniatus
+457	216aa, Grus_americana
+458	216aa, Rissa_tridactyla
+459	216aa, Cercotrichas_coryphoeus
+460	216aa, Glaucidium_brasilianum
+461	216aa, Eudyptes_chrysolophus
+462	216aa, Leptocoma_aspasia
+463	216aa, Thryothorus_ludovicianus
+464	216aa, Trogon_melanurus
+465	216aa, Atlantisia_rogersi
+466	216aa, Eudyptes_schlegeli
+467	216aa, Ardeotis_kori
+468	216aa, Corvus_hawaiiensis
+469	216aa, Stercorarius_parasiticus
+470	216aa, Steatornis_caripensis
+471	216aa, Cnemophilus_loriae
+472	216aa, Dryobates_pubescens
+473	216aa, Eulacestoma_nigropectus
+474	216aa, Himantopus_himantopus
+475	216aa, Coturnix_japonica
+476	216aa, Aquila_chrysaetos_chrysaetos
+477	216aa, Aphelocoma_coerulescens
+478	216aa, Sinosuthora_webbiana
+479	216aa, Arenaria_interpres
+480	216aa, Rissa_tridactyla
+481	216aa, Meleagris_gallopavo
+482	216aa, Mesembrinibis_cayennensis
+483	216aa, Polioptila_caerulea
+484	216aa, Lonchura_striata_domestica
+485	216aa, Chroicocephalus_maculipennis
+486	216aa, Phainopepla_nitens
+487	216aa, Bucorvus_abyssinicus
+488	216aa, Hirundo_rustica
+489	216aa, Pygoscelis_papua
+490	216aa, Chauna_torquata
+491	216aa, Burhinus_bistriatus
+492	216aa, Psophia_crepitans
+493	216aa, Pygoscelis_antarcticus
+494	216aa, Piprites_chloris
+495	216aa, Pygoscelis_papua
+496	216aa, Circaetus_pectoralis
+497	216aa, Ifrita_kowaldi
+498	216aa, Corvus_brachyrhynchos
+499	216aa, Accipiter_gentilis
+500	216aa, Corvus_kubaryi
+501	216aa, Acanthisitta_chloris
+502	216aa, Turdus_rufiventris
+503	216aa, Pygoscelis_papua
+504	216aa, Phasianus_colchicus
+505	216aa, Loxia_leucoptera
+506	216aa, Centrocercus_urophasianus
+507	216aa, Furnarius_figulus
+508	216aa, Limosa_lapponica_baueri
+509	216aa, Falco_naumanni
+510	216aa, Gallus_gallus
+511	216aa, Catharus_ustulatus
+512	216aa, Neodrepanis_coruscans
+513	216aa, Prunella_himalayana
+514	216aa, Spheniscus_magellanicus
+515	216aa, Gymnogyps_californianus
+516	216aa, Agelaius_phoeniceus
+517	216aa, Aegotheles_bennettii
+518	216aa, Tympanuchus_pallidicinctus
+519	216aa, Regulus_satrapa
+520	216aa, Ibidorhyncha_struthersii
+521	216aa, Urocolius_indicus
+522	216aa, Cettia_cetti
+523	216aa, Odontophorus_gujanensis
+524	216aa, Ciconia_maguari
+525	216aa, Climacteris_rufus
+526	216aa, Centropus_bengalensis
+527	213aa, Nipponia_nippon
+528	216aa, Cinclus_mexicanus
+529	216aa, Eudromia_elegans
+530	213aa, Acanthisitta_chloris
+531	213aa, Nestor_notabilis
+532	216aa, Herpetotheres_cachinnans
+533	216aa, Lophotis_ruficrista
+534	216aa, Columba_livia
+535	216aa, Nothoprocta_pentlandii
+536	216aa, Columba_guinea
+537	216aa, Bambusicola_thoracicus
+538	216aa, Cochlearius_cochlearius
+539	216aa, Sterrhoptilus_dennistouni
+540	216aa, Nestor_notabilis
+541	216aa, Notiomystis_cincta
+542	214aa, Nipponia_nippon
+543	216aa, Molothrus_ater
+544	216aa, Alca_torda
+545	216aa, Aegithalos_caudatus
+546	216aa, Orthonyx_spaldingii
+547	216aa, Bombycilla_garrulus
+548	216aa, Uria_aalge
+549	216aa, Ploceus_nigricollis
+550	216aa, Sylvia_borin
+551	216aa, Cygnus_atratus
+552	216aa, Fregetta_grallaria
+553	216aa, Corvus_moneduloides
+554	216aa, Dromaius_novaehollandiae
+555	216aa, Dryoscopus_gambensis
+556	216aa, Setophaga_kirtlandii
+557	213aa, Colius_striatus
+558	216aa, Eudyptes_sclateri
+559	216aa, Colinus_virginianus
+560	216aa, Motacilla_alba
+561	216aa, Chaetops_frenatus
+562	216aa, Spheniscus_humboldti
+563	216aa, Eudyptes_filholi
+564	216aa, Anas_platyrhynchos
+565	216aa, Eudyptes_moseleyi
+566	216aa, Eudyptes_robustus
+567	216aa, Lagopus_leucura
+568	216aa, Lagopus_muta
+569	216aa, Ficedula_albicollis
+570	216aa, Struthidea_cinerea
+571	212aa, Cuculus_canorus
+572	216aa, Colius_striatus
+573	216aa, Anser_cygnoides
+574	216aa, Rhynochetos_jubatus
+575	216aa, Hirundo_rustica_rustica
+576	216aa, Pandion_haliaetus
+577	216aa, Pycnonotus_jocosus
+578	216aa, Eudyptula_minor
+579	216aa, Larus_smithsonianus
+580	213aa, Corvus_brachyrhynchos
+581	216aa, Hylia_prasina
+582	216aa, Certhia_brachydactyla
+583	216aa, Cisticola_juncidis
+584	216aa, Asarcornis_scutulata
+585	216aa, Syrrhaptes_paradoxus
+586	216aa, Podilymbus_podiceps
+587	216aa, Geospiza_fortis
+588	216aa, Chaetorhynchus_papuensis
+589	216aa, Hippolais_icterina
+590	216aa, Apus_apus
+591	213aa, Eurypyga_helias
+592	216aa, Illadopsis_cleaveri
+593	216aa, Casuarius_casuarius
+594	216aa, Eudyptula_albosignata
+595	216aa, Numida_meleagris
+596	216aa, Aythya_fuligula
+597	216aa, Patagioenas_fasciata_monilis
+598	216aa, Cygnus_olor
+599	216aa, Brachypodius_atriceps
+600	213aa, Tinamus_guttatus
+601	216aa, Eurypyga_helias
+602	216aa, Brachypteracias_leptosomus
+603	216aa, Tinamus_guttatus
+604	216aa, Nothoprocta_ornata
+605	216aa, Calypte_anna
+606	216aa, Daphoenositta_chrysoptera
+607	216aa, Oxyura_jamaicensis
+608	216aa, Ornithorhynchus_anatinus
+609	213aa, Dryobates_pubescens
+610	216aa, Alligator_mississippiensis
+611	216aa, Upupa_epops
+612	216aa, Origma_solitaria
+613	216aa, Apteryx_rowi
+614	216aa, Columba_livia
+615	216aa, Promerops_cafer
+616	216aa, Pezoporus_wallicus
+617	216aa, Phascolarctos_cinereus
+618	208aa, Phaethon_lepturus
+619	216aa, Crocodylus_porosus
+620	209aa, Anas_platyrhynchos
+621	213aa, Calypte_anna
+622	216aa, Myotis_myotis
+623	216aa, Desmodus_rotundus
+624	216aa, Varanus_komodoensis
+625	216aa, Dicaeum_eximium
+626	216aa, Eudyptula_novaehollandiae
+627	216aa, Varanus_komodoensis
+628	216aa, Eptesicus_nilssonii
+629	216aa, Eptesicus_fuscus
+630	216aa, Myotis_daubentonii
+631	216aa, Gavialis_gangeticus
+632	216aa, Rhinatrema_bivittatum
+633	216aa, Microcaecilia_unicolor
+634	216aa, Alligator_sinensis
+635	216aa, Sturnira_hondurensis
+636	216aa, Nothocercus_nigrocapillus
+637	216aa, Astyanax_mexicanus
+638	216aa, Phyllostomus_discolor
+639	216aa, Artibeus_jamaicensis
+640	216aa, Alligator_sinensis
+641	216aa, Podarcis_lilfordi
+642	216aa, Psilopogon_haemacephalus
+643	216aa, Phyllostomus_hastatus
+644	216aa, Chrysemys_picta_bellii
+645	216aa, Triplophysa_dalaica
+646	216aa, Nothocercus_julius
+647	216aa, Hemicordylus_capensis
+648	216aa, Mylopharyngodon_piceus
+649	216aa, Astyanax_mexicanus
+650	216aa, Crypturellus_undulatus
+651	216aa, Heteronotia_binoei
+652	216aa, Podarcis_muralis
+653	216aa, Jacana_jacana
+654	216aa, Megalobrama_amblycephala
+655	216aa, Lacerta_agilis
+656	216aa, Ctenopharyngodon_idella
+657	216aa, Rhinoptilus_africanus
+658	216aa, Danio_rerio
+659	216aa, Sinocyclocheilus_rhinocerous
+660	216aa, Cyprinus_carpio
+661	216aa, Podarcis_raffonei
+662	216aa, Ctenopharyngodon_idella
+663	216aa, Thunnus_maccoyii
+664	216aa, Sinocyclocheilus_anshuiensis
+665	216aa, Danio_rerio
+666	216aa, Zootoca_vivipara
+667	216aa, Pipistrellus_kuhlii
+668	216aa, Sphaerodactylus_townsendi
+669	216aa, Geotrypetes_seraphini
+670	216aa, Cyprinus_carpio
+671	216aa, Pogona_vitticeps
+672	216aa, Hemibagrus_wyckioides
+673	216aa, Triplophysa_tibetana
+674	216aa, Crypturellus_soui
+675	216aa, Carassius_auratus
+676	216aa, Carassius_auratus
+677	216aa, Carassius_auratus
+678	216aa, Protopterus_annectens
+679	216aa, Danio_aesculapii
+680	216aa, Thunnus_albacares
+681	216aa, Carassius_auratus
+682	216aa, Oplegnathus_fasciatus
+683	216aa, Pelobates_cultripes
+684	216aa, Poecilia_reticulata
+685	216aa, Chanos_chanos
+686	216aa, Carassius_auratus
+687	216aa, Anolis_carolinensis
+688	216aa, Xyrauchen_texanus
+689	216aa, Sphaeramia_orbicularis
+690	216aa, Horornis_vulcanius
+691	216aa, Carassius_carassius
+692	216aa, Oncorhynchus_mykiss
+693	216aa, Labeo_rohita
+694	216aa, Gambusia_affinis
+695	216aa, Oncorhynchus_tshawytscha
+696	216aa, Poecilia_latipinna
+697	216aa, Pangasianodon_hypophthalmus
+698	216aa, Salvelinus_alpinus
+699	216aa, Salvelinus_namaycush
+700	216aa, Eublepharis_macularius
+701	216aa, Poecilia_mexicana
+702	216aa, Ameiurus_melas
+703	216aa, Spea_bombifrons
+704	216aa, Colossoma_macropomum
+705	216aa, Misgurnus_anguillicaudatus
+706	216aa, Oncorhynchus_keta
+707	216aa, Oncorhynchus_mykiss
+708	216aa, Pangasianodon_gigas
+709	216aa, Carassius_auratus
+710	216aa, Labeo_rohita
+711	216aa, Carassius_carassius
+712	216aa, Mugil_cephalus
+713	216aa, Labeo_rohita
+714	216aa, Triplophysa_rosa
+715	216aa, Carassius_auratus
+716	216aa, Oncorhynchus_gorbuscha
+717	216aa, Myxocyprinus_asiaticus
+718	216aa, Salmo_salar
+719	216aa, Nematolebias_whitei
+720	216aa, Oplegnathus_fasciatus
+721	216aa, Lates_calcarifer
+722	216aa, Gambusia_affinis
+723	216aa, Euleptes_europaea
+724	216aa, Prochilodus_magdalenae
+725	216aa, Pangasius_djambal
+726	216aa, Cyprinus_carpio
+727	216aa, Alosa_sapidissima
+728	216aa, Puntigrus_tetrazona
+729	216aa, Notolabrus_celidotus
+730	216aa, Gekko_japonicus
+731	216aa, Hemibagrus_wyckioides
+732	216aa, Elephantulus_edwardii
+733	216aa, Coregonus_clupeaformis
+734	216aa, Ictalurus_punctatus
+735	216aa, Salmo_trutta
+736	216aa, Staurois_parvus
+737	216aa, Xenopus_laevis
+738	216aa, Pimephales_promelas
+739	216aa, Hypanus_sabinus
+740	216aa, Cheilinus_undulatus
+741	216aa, Clarias_gariepinus
+742	216aa, Aldrovandia_affinis
+743	216aa, Synchiropus_splendidus
+744	216aa, Salvelinus_fontinalis
+745	216aa, Rana_temporaria
+746	216aa, Esox_lucius
+747	216aa, Oncorhynchus_nerka
+748	216aa, Pyxicephalus_adspersus
+749	216aa, Kryptolebias_marmoratus
+750	216aa, Nanorana_parkeri
+751	216aa, Oncorhynchus_kisutch
+752	216aa, Rhinichthys_klamathensis_goyatoka
+753	216aa, Oncorhynchus_mykiss
+754	216aa, Pseudonaja_textilis
+755	216aa, Bombina_bombina
+756	216aa, Labrus_bergylta
+757	216aa, Ictalurus_furcatus
+758	216aa, Lampris_incognitus
+759	216aa, Coreoperca_whiteheadi
+760	216aa, Micropterus_salmoides
+761	216aa, Alosa_alosa
+762	216aa, Cyprinodon_variegatus
+763	216aa, Alosa_alosa
+764	216aa, Sinocyclocheilus_rhinocerous
+765	216aa, Carcharodon_carcharias
+766	216aa, Albula_goreensis
+767	216aa, Cyprinus_carpio
+768	216aa, Protobothrops_mucrosquamatus
+769	216aa, Chelmon_rostratus
+770	216aa, Oncorhynchus_kisutch
+771	216aa, Salmo_trutta
+772	216aa, Micropterus_dolomieu
+773	216aa, Oncorhynchus_gorbuscha
+774	216aa, Salmo_trutta
+775	216aa, Sinocyclocheilus_anshuiensis
+776	216aa, Oncorhynchus_keta
+777	216aa, Oncorhynchus_tshawytscha
+778	216aa, Melanotaenia_boesemani
+779	216aa, Salmo_salar
+780	216aa, Oncorhynchus_mykiss
+781	216aa, Xiphophorus_maculatus
+782	216aa, Notechis_scutatus
+783	216aa, Latimeria_chalumnae
+784	216aa, Xiphophorus_couchianus
+785	216aa, Oncorhynchus_nerka
+786	216aa, Oncorhynchus_gorbuscha
+787	216aa, Salmo_trutta
+788	216aa, Cyprinodon_tularosa
+789	216aa, Scyliorhinus_canicula
+790	216aa, Oncorhynchus_mykiss
+791	216aa, Scyliorhinus_torazame
+792	216aa, Onychostoma_macrolepis
+793	216aa, Sinocyclocheilus_grahami
+794	216aa, Coregonus
+795	216aa, Mastacembelus_armatus
+796	216aa, Nothobranchius_furzeri
+797	216aa, Perca_fluviatilis
+798	216aa, Anabas_testudineus
+799	216aa, Fundulus_heteroclitus
+800	216aa, Crotalus_tigris
+801	216aa, Polyodon_spathula
+802	216aa, Coreoperca_kawamebari
+803	216aa, Nothobranchius_furzeri
+804	216aa, Muraenolepis_orangiensis
+805	216aa, Sebastes_schlegelii
+806	216aa, Silurus_asotus
+807	216aa, Sciaenops_ocellatus
+808	216aa, Pygocentrus_nattereri
+809	216aa, Gouania_willdenowi
+810	216aa, Tachysurus_fulvidraco
+811	216aa, Silurus_meridionalis
+812	216aa, Caranx_melampygus
+813	216aa, Siniperca_undulata
+814	216aa, Megalops_atlanticus
+815	216aa, Clupea_harengus
+816	216aa, Planiliza_haematocheilus
+817	216aa, Myripristis_murdjan
+818	216aa, Sebastes_umbrosus
+819	216aa, Stegastes_partitus
+820	216aa, Siniperca_knerii
+821	216aa, Megalops_cyprinoides
+822	216aa, Pungitius_pungitius
+823	216aa, Perca_flavescens
+824	216aa, Morone_saxatilis
+825	216aa, Monopterus_albus
+826	216aa, Echeneis_naucrates
+827	216aa, Channa_argus
+828	216aa, Parambassis_ranga
+829	216aa, Siniperca_roulei
+830	216aa, Scatophagus_argus
+831	216aa, Silurus_meridionalis
+832	216aa, Epinephelus_coioides
+833	216aa, Girardinichthys_multiradiatus
+834	214aa, Scatophagus_argus
+835	216aa, Synaphobranchus_kaupii
+836	216aa, Siniperca_chuatsi
+837	216aa, Coregonus
+838	216aa, Salvelinus_namaycush
+839	216aa, Epinephelus_fuscoguttatus
+840	216aa, Sander_lucioperca
+841	216aa, Dicentrarchus_labrax
+842	216aa, Toxotes_jaculatrix
+843	216aa, Pristis_pectinata
+844	216aa, Thamnophis_elegans
+845	216aa, Salvelinus_fontinalis
+846	216aa, Archocentrus_centrarchus
+847	216aa, Hymenochirus_boettgeri
+848	216aa, Channa_argus
+849	216aa, Amphiprion_ocellaris
+850	216aa, Scomber_japonicus
+851	216aa, Acanthochromis_polyacanthus
+852	216aa, Epinephelus_moara
+853	216aa, Siniperca_obscura
+854	216aa, Etheostoma_cragini
+855	216aa, Syngnathus_scovelli
+856	216aa, Amia_calva
+857	216aa, Menidia_menidia
+858	216aa, Hypomesus_transpacificus
+859	216aa, Conger_conger
+860	216aa, Coregonus_clupeaformis
+861	216aa, Sparus_aurata
+862	216aa, Miichthys_miiuy
+863	216aa, Centropristis_striata
+864	216aa, Xenopus_laevis
+865	216aa, Xenopus_tropicalis
+866	216aa, Etheostoma_spectabile
+867	216aa, Larimichthys_crocea
+868	216aa, Xiphias_gladius
+869	216aa, Brienomyrus_brachyistius
+870	216aa, Etheostoma_spectabile
+871	216aa, Collichthys_lucidus
+872	216aa, Lateolabrax_japonicus
+873	216aa, Bufo_bufo
+874	214aa, Nibea_albiflora
+875	216aa, Acanthopagrus_latus
+876	216aa, Ahaetulla_prasina
+877	216aa, Seriola_lalandi_dorsalis
+878	216aa, Bufo_gargarizans
+879	216aa, Oryzias_latipes
+880	216aa, Larimichthys_crocea
+881	216aa, Gasterosteus_aculeatus_aculeatus
+882	216aa, Anguilla_anguilla
+883	216aa, Oreochromis_niloticus
+884	216aa, Seriola_aureovittata
+885	216aa, Rattus_norvegicus
+886	216aa, Cottoperca_gobio
+887	216aa, Oreochromis_aureus
+888	216aa, Acipenser_dabryanus
+889	216aa, Gadus_chalcogrammus
+890	216aa, Takifugu_flavidus
+891	216aa, Corythoichthys_intestinalis
+892	216aa, Salvelinus_alpinus
+893	216aa, Xenopus_laevis
+894	216aa, Chiloscyllium_plagiosum
+895	216aa, Coryphaenoides_rupestris
+896	216aa, Plectropomus_leopardus
+897	216aa, Neolamprologus_brichardi
+898	216aa, Syngnathus_acus
+899	216aa, Maylandia_zebra
+900	216aa, Liparis_tanakae
+901	216aa, Gadus_macrocephalus
+902	216aa, Rhincodon_typus
+903	216aa, Acipenser_ruthenus
+904	216aa, Engystomops_pustulosus
+905	216aa, Amblyraja_radiata
+906	216aa, Takifugu_rubripes
+907	216aa, Astatotilapia_calliptera
+908	216aa, Acipenser_oxyrinchus_oxyrinchus
+909	216aa, Anoplopoma_fimbria
+910	216aa, Stegostoma_tigrinum
+911	216aa, Gymnodraco_acuticeps
+912	216aa, Oryzias_melastigma
+913	216aa, Takifugu_bimaculatus
+914	216aa, Pantherophis_guttatus
+915	216aa, Chiloscyllium_punctatum
+916	216aa, Hippocampus_zosterae
+917	216aa, Pundamilia_nyererei
+918	216aa, Denticeps_clupeoides
+919	216aa, Dunckerocampus_dactyliophorus
+920	216aa, Seriola_aureovittata
+921	216aa, Lates_japonicus
+922	216aa, Bufo_bufo
+923	216aa, Simochromis_diagramma
+924	216aa, Cyprinus_carpio
+925	216aa, Seriola_dumerili
+926	216aa, Pogonophryne_albipinna
+927	216aa, Hippocampus_zosterae
+928	216aa, Trematomus_bernacchii
+929	216aa, Seriola_dumerili
+930	216aa, Seriola_lalandi_dorsalis
+931	216aa, Polyodon_spathula
+932	216aa, Haplochromis_burtoni
+933	216aa, Hippocampus_abdominalis
+934	216aa, Pseudochaenichthys_georgianus
+935	216aa, Dissostichus_eleginoides
+936	216aa, Anoplopoma_fimbria
+937	216aa, Sciurus_carolinensis
+938	216aa, Oryzias_melastigma
+939	216aa, Atractosteus_spatula
+940	216aa, Dissostichus_mawsoni
+941	216aa, Dissostichus_eleginoides
+942	216aa, Anarrhichthys_ocellatus
+943	216aa, Salarias_fasciatus
+944	216aa, Lepisosteus_oculatus
+945	216aa, Betta_splendens
+946	216aa, Salarias_fasciatus
+947	216aa, Hippocampus_comes
+948	216aa, Hippocampus_comes
+949	216aa, Xyrichtys_novacula
+950	216aa, Pseudoliparis_swirei
+951	216aa, Gadus_morhua
+952	216aa, Trachinotus_ovatus
+953	216aa, Erpetoichthys_calabaricus
+954	216aa, Gadus_morhua
+955	216aa, Perca_fluviatilis
+956	216aa, Hyla_sarda
+957	216aa, Anguilla_anguilla
+958	216aa, Tetraodon_nigroviridis
+959	216aa, Doryrhamphus_excisus
+960	216aa, Oryzias_javanicus
+961	216aa, Siniperca_scherzeri
+962	216aa, Cyclopterus_lumpus
+963	216aa, Electrophorus_electricus
+964	216aa, Perca_flavescens
+965	216aa, Siniperca_fortis
+966	216aa, Equus_caballus
+967	216aa, Scleropages_formosus
+968	216aa, Oryctolagus_cuniculus
+969	216aa, Polypterus_senegalus
+970	216aa, Epinephelus_lanceolatus
+971	216aa, Equus_asinus
+972	216aa, Dallia_pectoralis
+973	216aa, Polypterus_senegalus
+974	216aa, Micropterus_dolomieu
+975	216aa, Leucoraja_erinacea
+976	216aa, Arapaima_gigas
+977	216aa, Branchiostoma_lanceolatum
+978	216aa, Sinocyclocheilus_grahami
+979	216aa, Acropora_millepora
+980	216aa, Bagarius_yarrelli
+981	216aa, Branchiostoma_japonicum
+982	216aa, Acanthaster_planci
+983	216aa, Branchiostoma_belcheri
+984	216aa, Notothenia_coriiceps
+985	214aa, Nematostella_vectensis
+986	216aa, Nematostella_vectensis
+987	216aa, Patiria_miniata
+988	216aa, Paramormyrops_kingsleyae
+989	216aa, Anguilla_anguilla
+990	216aa, Scleropages_formosus
+991	216aa, Patiria_miniata
+992	216aa, Lingula_anatina
+993	216aa, Lingula_anatina
+994	216aa, Branchiostoma_floridae
+995	216aa, Asterias_rubens
+996	216aa, Porites_evermanni
+997	216aa, Porites_lobata
+998	216aa, Diploptera_punctata
+999	216aa, Poeciliopsis_prolifica
+1000	216aa, Gracilinanus_agilis
+1001	216aa, Apteryx_rowi
+1002	216aa, Homalodisca_vitripennis
+1003	216aa, Timema_bartmani
+1004	216aa, Daphnia_pulex
+1005	216aa, Daphnia_pulicaria
+1006	216aa, Branchiostoma_belcheri
+1007	216aa, Geococcyx_californianus
+1008	216aa, Sylvietta_virens
+1009	216aa, Nothoprocta_perdicaria
+1010	216aa, Naja_naja
+1011	216aa, Oxylabes_madagascariensis
+1012	183aa, Castor_canadensis
+1013	216aa, Timema_tahoe
+1014	216aa, Macrosteles_quadrilineatus
+1015	216aa, Pristis_pectinata
+1016	216aa, Heteronotia_binoei
+1017	216aa, Salarias_fasciatus
+1018	216aa, Engystomops_pustulosus
+1019	216aa, Hyla_sarda
+1020	216aa, Xenopus_tropicalis
+1021	216aa, Engystomops_pustulosus
+1022	216aa, Electrophorus_voltai
+1023	216aa, Scortum_barcoo
+1024	216aa, Lateolabrax_maculatus
+1025	179aa, Leiothrix_lutea
+1026	179aa, Mystacornis_crossleyi
+1027	179aa, Semnornis_frantzii
+1028	179aa, Spheniscus_humboldti
+1029	179aa, Ramphastos_sulfuratus
+1030	216aa, Myotis_daubentonii
+1031	184aa, Engystomops_pustulosus
+1032	136aa, Gadus_morhua
+1033	82aa, Sinocyclocheilus_grahami
+1034	41aa, Epinephelus_coioides
+1035	31aa, Dreissena_polymorpha
+>Cluster 1
+0	216aa, Macaca_mulatta
+1	216aa, Macaca_fascicularis
+>Cluster 2
+0	216aa, Puma_yagouaroundi
+1	216aa, Nyctereutes_procyonoides
+2	216aa, Felis_catus
+3	216aa, Acinonyx_jubatus
+4	216aa, Leopardus_geoffroyi
+5	216aa, Neofelis_nebulosa
+6	216aa, Panthera_pardus
+7	216aa, Suricata_suricatta
+8	216aa, Bubalus_bubalis
+9	216aa, Molossus_molossus
+10	216aa, Albula_glossodonta
+11	216aa, Bufo_bufo
+12	216aa, Rhincodon_typus
+13	216aa, Amblyraja_radiata
+>Cluster 3
+0	216aa, Mytilus_galloprovincialis
+1	216aa, Mytilus_galloprovincialis
+2	216aa, Mytilus_galloprovincialis
+3	216aa, Mytilus_galloprovincialis
+4	216aa, Mytilus_californianus
+5	216aa, Asterias_rubens
+6	216aa, Mytilus_edulis
+7	216aa, Crassostrea_virginica
+8	216aa, Amphimedon_queenslandica
+9	216aa, Ylistrum_balloti
+10	216aa, Pecten_maximus
+11	216aa, Dreissena_polymorpha
+12	216aa, Dreissena_polymorpha
+13	216aa, Dreissena_polymorpha
+14	216aa, Dreissena_polymorpha
+15	216aa, Dreissena_polymorpha
+16	216aa, Dreissena_polymorpha
+17	216aa, Dreissena_polymorpha
+18	216aa, Dreissena_polymorpha
+19	216aa, Dreissena_polymorpha
+20	216aa, Dreissena_polymorpha
+21	216aa, Orbicella_faveolata
+22	216aa, Mytilus_galloprovincialis
+23	105aa, Mytilus_coruscus
+>Cluster 4
+0	216aa, Suberites_domuncula
+1	216aa, Geodia_barretti
+2	216aa, Geodia_barretti
+3	216aa, Geodia_barretti
+4	216aa, Geodia_barretti
+5	75aa, Dreissena_polymorpha
+>Cluster 5
+0	216aa, Patella_vulgata
+1	216aa, Mya_arenaria
+2	216aa, Haliotis_rufescens
+3	216aa, Haliotis_discus_hannai
+4	216aa, Mercenaria_mercenaria
+5	216aa, Lottia_gigantea
+>Cluster 6
+0	216aa, Pocillopora_damicornis
+1	216aa, Pocillopora_verrucosa
+2	216aa, Pocillopora_meandrina
+3	216aa, Stylophora_pistillata
+4	216aa, Porites_evermanni
+5	216aa, Pocillopora_damicornis
+>Cluster 7
+0	216aa, Lerista_edwardsae
+1	216aa, Lucifuga_dentata
+>Cluster 8
+0	216aa, Petromyzon_marinus
+>Cluster 9
+0	216aa, Chrysoperla_carnea
+1	216aa, Leptinotarsa_decemlineata
+2	216aa, Diorhabda_carinulata
+3	216aa, Phyllotreta_striolata
+4	216aa, Tenebrio_molitor
+5	216aa, Diorhabda_sublineata
+6	216aa, Tribolium_madens
+7	216aa, Psylliodes_chrysocephala
+8	216aa, Dendroctonus_ponderosae
+9	216aa, Psylliodes_chrysocephala
+10	216aa, Dendroctonus_ponderosae
+11	216aa, Timema_genevievae
+>Cluster 10
+0	216aa, Crassostrea_gigas
+1	216aa, Crassostrea_angulata
+2	216aa, Crassostrea_gigas
+3	216aa, Ostrea_edulis
+4	216aa, Crassostrea_gigas
+>Cluster 11
+0	216aa, Schistocerca_cancellata
+1	216aa, Schistocerca_gregaria
+2	216aa, Schistocerca_piceifrons
+3	216aa, Schistocerca_nitens
+4	216aa, Schistocerca_serialis_cubense
+>Cluster 12
+0	216aa, Phyllostomus_discolor
+>Cluster 13
+0	216aa, Thrips_palmi
+1	216aa, Homalodisca_vitripennis
+2	216aa, Megalurothrips_usitatus
+>Cluster 14
+0	216aa, Tenebrio_molitor
+1	216aa, Tribolium_castaneum
+2	216aa, Nicrophorus_vespilloides
+3	216aa, Phaedon_cochleariae
+4	216aa, Zophobas_morio
+5	216aa, Coccinella_septempunctata
+6	216aa, Harmonia_axyridis
+7	216aa, Diabrotica_virgifera_virgifera
+8	216aa, Diabrotica_balteata
+9	216aa, Anthonomus_grandis_grandis
+10	216aa, Anoplophora_glabripennis
+11	216aa, Gonioctena_quinquepunctata
+12	216aa, Holotrichia_oblita
+13	216aa, Tenebrio_molitor
+>Cluster 15
+0	216aa, Dendronephthya_gigantea
+1	216aa, Dendronephthya_gigantea
+2	216aa, Xenia
+3	216aa, Xenia
+>Cluster 16
+0	216aa, Salmo_salar
+1	216aa, Salmo_salar
+2	216aa, Larimichthys_crocea
+3	190aa, Micropterus_dolomieu
+4	158aa, Coreoperca_herzi
+>Cluster 17
+0	216aa, Dreissena_polymorpha
+1	216aa, Dreissena_polymorpha
+2	216aa, Dreissena_polymorpha
+3	216aa, Dreissena_polymorpha
+4	216aa, Dreissena_polymorpha
+5	216aa, Dreissena_polymorpha
+>Cluster 18
+0	216aa, Daphnia_magna
+1	216aa, Daphnia_pulex
+2	216aa, Daphnia_sinensis
+3	216aa, Daphnia_galeata
+>Cluster 19
+0	216aa, Macrostomum_lignano
+1	216aa, Macrostomum_lignano
+>Cluster 20
+0	216aa, Acropora_cervicornis
+>Cluster 21
+0	216aa, Rhopalosiphum_maidis
+1	216aa, Aphis_craccivora
+2	216aa, Macrosiphum_euphorbiae
+3	216aa, Macrosiphum_euphorbiae
+4	216aa, Acyrthosiphon_pisum
+5	216aa, Diuraphis_noxia
+6	216aa, Aphis_glycines
+7	216aa, Cinara_cedri
+8	216aa, Aphis_gossypii
+9	216aa, Cinara_cedri
+10	216aa, Myzus_persicae
+11	216aa, Aphis_gossypii
+12	216aa, Acyrthosiphon_pisum
+13	216aa, Melanaphis_sacchari
+14	216aa, Cinara_cedri
+15	216aa, Aphidius_gifuensis
+>Cluster 22
+0	216aa, Ceutorhynchus_assimilis
+>Cluster 23
+0	216aa, Ranitomeya_imitator
+>Cluster 24
+0	216aa, Ylistrum_balloti
+>Cluster 25
+0	216aa, Molorchus_minor
+>Cluster 26
+0	216aa, Caranx_melampygus
+>Cluster 27
+0	216aa, Tetrahymena_thermophila_SB210
+>Cluster 28
+0	216aa, Adineta_steineri
+1	216aa, Adineta_ricciae
+2	216aa, Adineta_ricciae
+3	216aa, Adineta_ricciae
+4	216aa, Adineta_vaga
+5	216aa, Adineta_steineri
+6	216aa, Adineta_steineri
+7	216aa, Rotaria_magnacalcarata
+8	216aa, Rotaria_magnacalcarata
+9	216aa, Rotaria_magnacalcarata
+10	216aa, Rotaria
+11	216aa, Rotaria
+12	216aa, Rotaria_socialis
+13	216aa, Rotaria_socialis
+14	216aa, Rotaria_socialis
+15	216aa, Rotaria
+16	216aa, Rotaria
+17	216aa, Rotaria
+18	216aa, Adineta_steineri
+19	216aa, Adineta_steineri
+20	216aa, Adineta_steineri
+21	144aa, Adineta_steineri
+22	139aa, Adineta_steineri
+23	127aa, Adineta_steineri
+>Cluster 29
+0	216aa, Halteria_grandinella
+>Cluster 30
+0	216aa, Tuta_absoluta
+1	216aa, Cotesia_glomerata
+2	216aa, Cotesia_congregata
+>Cluster 31
+0	216aa, Symbiodinium_microadriaticum
+1	216aa, Symbiodinium_microadriaticum
+2	216aa, Symbiodinium
+3	216aa, Symbiodinium_pilosum
+4	216aa, Symbiodinium_natans
+5	216aa, Symbiodinium_necroappetens
+>Cluster 32
+0	216aa, Timema_monikensis
+>Cluster 33
+0	216aa, Xanthoria_steineri
+1	216aa, Xanthoria_aureola
+2	216aa, Xanthoria_mediterranea
+3	216aa, Physcia_stellaris
+4	216aa, Xanthoria
+5	216aa, Xanthoria
+6	216aa, Caloplaca_ligustica
+7	216aa, Seirophora_villosa
+8	216aa, Caloplaca_aetnensis
+9	216aa, Seirophora_lacunosa
+10	216aa, Seirophora_lacunosa
+11	216aa, Teloschistes_flavicans
+>Cluster 34
+0	216aa, Claussenomyces
+1	216aa, Scytalidium_lignicola
+2	216aa, Botryotinia_calthae
+3	216aa, Sclerotinia_nivalis
+4	216aa, Botrytis_fragariae
+5	216aa, Mollisia_scopiformis
+6	216aa, Lachnellula_suecica
+7	216aa, Botrytis_elliptica
+8	216aa, Rhynchosporium_agropyri
+>Cluster 35
+0	216aa, Varicellaria_rhodocarpa
+1	216aa, Lasallia_pustulata
+>Cluster 36
+0	216aa, Trichoglossum_hirsutum
+1	216aa, Elaphomyces_granulatus
+2	216aa, Aspergillus_pseudocaelatus
+3	216aa, Wilcoxina_mikolae_CBS_423.85
+4	216aa, Geoglossum_umbratile
+5	216aa, Trichophaea_hybrida
+6	216aa, Aspergillus_caelatus
+7	216aa, Aspergillus_pseudonomiae
+8	216aa, Aspergillus_pseudotamarii
+9	216aa, Aspergillus_nomiae_NRRL_13137
+10	216aa, Aspergillus_bombycis
+11	216aa, Geoglossum_simile
+>Cluster 37
+0	216aa, Rhizophagus_irregularis
+1	216aa, Rhizophagus_irregularis
+2	216aa, Rhizophagus_irregularis
+3	216aa, Rhizophagus_irregularis_DAOM_181602=DAOM_197198
+4	216aa, Rhizophagus_irregularis_DAOM_197198w
+5	216aa, Rhizophagus_irregularis
+6	216aa, Rhizophagus_irregularis
+7	216aa, Rhizophagus_diaphanus
+8	216aa, Rhizophagus_clarus
+9	216aa, Rhizophagus_clarus
+10	216aa, Rhizophagus_irregularis
+11	216aa, Glomus_cerebriforme
+12	206aa, Rhizophagus_clarus
+>Cluster 38
+0	216aa, Venustampulla_echinocandica
+>Cluster 39
+0	216aa, Dactylellina_haptotyla_CBS_200.50
+1	216aa, Arthrobotrys_entomopaga
+2	216aa, Drechslerella_dactyloides
+3	216aa, Drechslerella_brochopaga
+4	216aa, Drechslerella_stenobrocha_248
+5	140aa, Dactylellina_cionopaga
+>Cluster 40
+0	216aa, Crassisporium_funariophilum
+1	216aa, Panaeolus_cyanescens
+2	216aa, Ramaria_rubella
+3	216aa, Exidia_glandulosa_HHB12029
+4	216aa, Agrocybe_pediades
+5	216aa, Mycena_rebaudengoi
+6	216aa, Ramaria_rubella
+7	216aa, Agrocybe_chaxingu
+8	212aa, Pluteus_cervinus
+9	216aa, Panaeolus_papilionaceus
+10	216aa, Heterobasidion_irregulare_TC_32-1
+11	216aa, Dentipellis
+12	216aa, Piloderma_croceum_F_1598
+13	216aa, Dendrothele_bispora_CBS_962.96
+14	216aa, Amanita_rubescens
+15	216aa, Chiua_virens
+16	216aa, Hericium_alpestre
+17	216aa, Lepista_nuda
+18	216aa, Paxillus_rubicundulus_Ve08.2h10
+19	216aa, Pholiota_molesta
+20	216aa, Boletus_edulis
+21	216aa, Boletus_edulis_BED1
+22	216aa, Boletus_reticuloceps
+23	216aa, Hydnomerulius_pinastri_MD-312
+24	216aa, Paxillus_rubicundulus_Ve08.2h10
+25	216aa, Rhodocollybia_butyracea
+26	216aa, Paxillus_ammoniavirescens
+27	216aa, Paxillus_ammoniavirescens
+28	216aa, Flagelloscypha
+29	216aa, Volvariella_volvacea_WC_439
+30	214aa, Imleria_badia
+31	216aa, Dentipellis_fragilis
+32	216aa, Dendrothele_bispora_CBS_962.96
+33	216aa, Serpula_lacrymans_var._lacrymans_S7.3
+34	216aa, Hysterangium_stoloniferum
+35	216aa, Hysterangium_stoloniferum
+36	209aa, Tetrapyrgos_nigripes
+>Cluster 41
+0	216aa, Sclerophora_amabilis
+>Cluster 42
+0	216aa, Emydomyces_testavorans
+>Cluster 43
+0	216aa, Ceratobasidium
+1	216aa, Ceratobasidium
+2	216aa, Ceratobasidium_theobromae
+3	216aa, Ceratobasidium
+4	216aa, Ceratobasidium
+5	216aa, Ceratobasidium
+6	216aa, Ceratobasidium
+7	216aa, Ceratobasidium
+8	216aa, Ceratobasidium
+9	216aa, Ceratobasidium
+10	216aa, Ceratobasidium
+11	216aa, Rhizoctonia_solani
+12	216aa, Rhizoctonia_solani
+13	216aa, Ceratobasidium
+14	216aa, Rhizoctonia_solani_AG-1_IB
+15	216aa, Rhizoctonia_solani
+16	216aa, Rhizoctonia_solani
+17	216aa, Tulasnella
+18	216aa, Rhizoctonia_solani
+19	216aa, Ceratobasidium
+20	216aa, Rhizoctonia_solani
+21	216aa, Ceratobasidium
+22	216aa, Ceratobasidium_theobromae
+23	216aa, Ceratobasidium
+24	216aa, Rhizoctonia_solani
+25	216aa, Rhizoctonia_solani_AG-8_WAC10335
+26	216aa, Ceratobasidium
+27	216aa, Rhizoctonia_solani
+28	216aa, Rhizoctonia_solani
+29	216aa, Rhizoctonia_solani
+>Cluster 44
+0	216aa, Rhizophlyctis_rosea
+>Cluster 45
+0	216aa, Effrenium_voratum
+1	216aa, Effrenium_voratum
+>Cluster 46
+0	216aa, Lyophyllum_shimeji
+1	216aa, Hypsizygus_marmoreus
+2	216aa, Piloderma_croceum_F_1598
+>Cluster 47
+0	216aa, Letharia_lupina
+1	216aa, Imshaugia_aleurites
+2	216aa, Letharia_columbiana
+3	216aa, Lambiella_insularis
+4	216aa, Alectoria_fallacina
+5	216aa, Alectoria_sarmentosa
+6	216aa, Cladonia_borealis
+7	216aa, Xanthoria_mediterranea
+8	216aa, Xanthoria_aureola
+9	216aa, Heterodermia_speciosa
+>Cluster 48
+0	216aa, Colletotrichum_trifolii
+1	216aa, Colletotrichum_orbiculare_MAFF_240422
+2	216aa, Colletotrichum_orchidophilum
+3	216aa, Colletotrichum_higginsianum_IMI_349063
+4	216aa, Colletotrichum_sidae
+5	216aa, Colletotrichum_shisoi
+6	216aa, Colletotrichum_higginsianum
+7	216aa, Diaporthe_citri
+8	216aa, Diaporthe_helianthi
+9	216aa, Colletotrichum_simmondsii
+10	216aa, Diaporthe_batatas
+11	216aa, Colletotrichum_scovillei
+12	216aa, Colletotrichum_nymphaeae_SA-01
+13	216aa, Daldinia_bambusicola
+14	216aa, Diaporthaceae
+15	216aa, Colletotrichum_camelliae
+16	216aa, Daldinia_grandis
+17	216aa, Colletotrichum
+18	216aa, Colletotrichum
+19	216aa, Colletotrichum_falcatum
+20	216aa, Colletotrichum
+21	216aa, Colletotrichum_gloeosporioides
+22	216aa, Colletotrichum_acutatum
+23	216aa, Colletotrichum
+24	216aa, Colletotrichum_siamense
+25	216aa, Colletotrichum_fioriniae_PJ7
+26	216aa, Colletotrichum_zoysiae
+27	216aa, Colletotrichum_viniferum
+28	216aa, Colletotrichum_siamense
+29	216aa, Colletotrichum_plurivorum
+30	216aa, Colletotrichum
+31	216aa, Colletotrichum_siamense
+32	216aa, Botryosphaeria_dothidea
+33	216aa, Decorospora_gaudefroyi
+34	216aa, Colletotrichum_fructicola
+35	216aa, Alternaria_panax
+36	216aa, Colletotrichum_asianum
+37	216aa, Colletotrichum_cuscutae
+38	216aa, Colletotrichum_paranaense
+39	216aa, Colletotrichum
+40	216aa, Colletotrichum_chrysophilum
+41	216aa, Colletotrichum_filicis
+42	216aa, Colletotrichum
+43	216aa, Colletotrichum_melonis
+44	216aa, Colletotrichum_karsti
+45	216aa, Lasiodiplodia_hormozganensis
+46	216aa, Colletotrichum_chrysophilum
+47	216aa, Colletotrichum_limetticola
+48	216aa, Eutypa_lata
+49	216aa, Lasiodiplodia_theobromae
+50	216aa, Daldinia_decipiens
+51	216aa, Colletotrichum_tanaceti
+52	216aa, Didymella
+53	215aa, Colletotrichum_gloeosporioides_23
+54	216aa, Colletotrichum_tanaceti
+55	216aa, Monosporascus_ibericus
+56	216aa, Byssothecium_circinans
+57	216aa, Karstenula_rhodostoma_CBS_690.94
+58	216aa, Colletotrichum_tropicale
+59	216aa, Colletotrichum_nupharicola
+60	216aa, Eutypa_lata_UCREL1
+61	216aa, Lasiodiplodia_theobromae
+62	216aa, Monosporascus
+63	216aa, Monosporascus
+64	216aa, Diplodia_corticola
+65	216aa, Lepidopterella_palustris_CBS_459.81
+66	216aa, Diaporthe_ilicicola
+67	216aa, Daldinia_loculata
+68	216aa, Daldinia_loculata
+69	216aa, Daldinia_vernicosa
+70	216aa, Diplodia_seriata
+71	216aa, Daldinia_eschscholtzii
+72	216aa, Daldinia_caldariorum
+73	216aa, Macrophomina_phaseolina
+74	216aa, Colletotrichum_somersetense
+75	216aa, Macrophomina_phaseolina_MS6
+76	216aa, Daldinia
+77	216aa, Coniella_lustricola
+78	216aa, Lentithecium_fluviatile_CBS_122367
+79	216aa, Quercus_suber
+80	216aa, Colletotrichum_cereale
+81	216aa, Dactylellina_cionopaga
+82	216aa, Colletotrichum_caudatum
+83	216aa, Colletotrichum_noveboracense
+84	216aa, Colletotrichum_noveboracense
+85	216aa, Colletotrichum_noveboracense
+86	216aa, Orbilia_oligospora_ATCC_24927
+87	216aa, Fusarium_proliferatum_ET1
+88	216aa, Fusarium_subglutinans
+89	216aa, Colletotrichum_scovillei
+90	216aa, Colletotrichum_gloeosporioides_Cg-14
+91	216aa, Colletotrichum_sojae
+92	216aa, Colletotrichum_nupharicola
+93	216aa, Massariosphaeria_phaeospora
+94	216aa, Colletotrichum
+95	43aa, Colletotrichum_salicis
+>Cluster 49
+0	216aa, Didymodactylos_carnosus
+1	95aa, Didymodactylos_carnosus
+>Cluster 50
+0	216aa, Thermothielavioides_terrestris
+1	216aa, Thermothielavioides_terrestris_NRRL_8126
+2	216aa, Fusarium
+3	216aa, Fusarium_duplospermum
+4	216aa, Fusarium_ambrosium
+5	216aa, Trichoderma_virens_FT-333
+6	216aa, Lineolata_rhizophorae
+7	216aa, Madurella_mycetomatis
+8	216aa, Cercophora_samala
+9	216aa, Chaetomium_globosum_CBS_148.51
+10	216aa, Chaetomium
+11	216aa, Monosporascus
+12	216aa, Monosporascus
+13	216aa, Monosporascus
+14	216aa, Cercophora_caudata
+15	127aa, Aspergillus_aculeatus_ATCC_16872
+>Cluster 51
+0	216aa, Coniosporium_apollinis_CBS_100218
+1	216aa, Xylographa_pallens
+>Cluster 52
+0	216aa, Capsaspora_owczarzaki_ATCC_30864
+>Cluster 53
+0	216aa, Paecilomyces_variotii
+1	216aa, Paecilomyces_variotii
+2	216aa, Paecilomyces_variotii
+3	216aa, Paecilomyces_variotii
+4	216aa, Paecilomyces_variotii
+5	216aa, Paecilomyces_variotii
+6	216aa, Paecilomyces_variotii
+7	216aa, Paecilomyces_variotii
+8	216aa, Paecilomyces_variotii
+9	216aa, Paecilomyces_variotii
+10	216aa, Paecilomyces_variotii
+11	216aa, Paecilomyces_variotii
+12	216aa, Paecilomyces_variotii_No._5
+>Cluster 54
+0	216aa, Fibularhizoctonia
+1	216aa, Fibularhizoctonia
+2	216aa, Fibularhizoctonia
+3	216aa, Sphagnurus_paluster
+>Cluster 55
+0	216aa, Entrophospora_candida
+1	216aa, Entrophospora_candida
+2	216aa, Entrophospora
+>Cluster 56
+0	216aa, Tulasnella
+1	216aa, Amanita_brunnescens_Koide_BX004
+2	216aa, Boletus_edulis
+3	216aa, Tulasnella
+4	216aa, Tulasnella
+5	216aa, Rhizopogon_salebrosus_TDB-379
+6	216aa, Boletus_reticuloceps
+7	216aa, Tulasnella
+>Cluster 57
+0	216aa, Folsomia_candida
+1	216aa, Allacma_fusca
+>Cluster 58
+0	216aa, Diaporthe_citri
+1	216aa, Ophiocordyceps_camponoti-saundersi_(nom._inval.)
+2	216aa, Ophiocordyceps_polyrhachis-furcata_BCC_54312
+3	216aa, Hirsutella_minnesotensis_3608
+4	216aa, Ophiocordyceps_camponoti-leonardi_(nom._inval.)
+5	216aa, Diaporthe_batatas
+6	216aa, Valsa_sordida
+7	216aa, Diaporthe_eres
+>Cluster 59
+0	216aa, Trichoderma_atroviride_IMI_206040
+1	216aa, Melanomma_pulvis-pyrius_CBS_109.77
+2	216aa, Trichoderma_citrinoviride
+3	216aa, Trichoderma_harzianum
+4	216aa, Trichoderma_asperellum_CBS_433.97
+5	216aa, Trichoderma_harzianum
+6	216aa, Trichoderma_simmonsii
+7	216aa, Trichoderma_harzianum_CBS_226.95
+8	216aa, Trichoderma_virens_Gv29-8
+9	216aa, Trichoderma_cornu-damae
+10	216aa, Trichoderma_asperelloides
+11	216aa, Trichoderma_virens
+12	216aa, Trichoderma_guizhouense
+13	216aa, Trichoderma_longibrachiatum_ATCC_18648
+14	216aa, Trichoderma_reesei_QM6a
+15	216aa, Trichoderma_gracile
+16	216aa, Phaeosphaeriaceae
+17	216aa, Trichoderma_harzianum
+18	216aa, Trichoderma_gamsii
+19	216aa, Grosmannia_clavigera_kw1407
+20	151aa, Toensbergia_leucococca
+>Cluster 60
+0	216aa, Chlorociboria_aeruginascens
+1	216aa, Xylogone
+2	216aa, Cudoniella_acicularis
+3	216aa, Chaetothyriales
+4	216aa, Pseudogymnoascus
+5	216aa, Hymenoscyphus_albidus
+6	216aa, Chaetothyriales
+7	214aa, Hyaloscypha_bicolor_E
+8	216aa, Chaetothyriales
+9	216aa, Trichothecium_roseum
+10	216aa, Trichothecium_roseum
+11	216aa, Pseudogymnoascus
+12	100aa, Fusarium_oxysporum_f.
+>Cluster 61
+0	216aa, Escovopsis_weberi
+>Cluster 62
+0	216aa, Echria_macrotheca
+1	216aa, Madurella_mycetomatis
+2	216aa, Schizothecium_conicum
+3	216aa, Apiosordaria_backusii
+>Cluster 63
+0	216aa, Ascosphaera_apis_ARSEF_7405
+1	216aa, Ascosphaera_aggregata
+2	151aa, Ascosphaera_pollenicola
+>Cluster 64
+0	216aa, Paraphysoderma_sedebokerense
+>Cluster 65
+0	216aa, Pyrenochaeta
+1	216aa, Bipolaris_maydis_ATCC_48331
+2	216aa, Bipolaris_maydis_C5
+3	216aa, Alternaria_gaisen
+4	216aa, Cenococcum_geophilum_1.58
+5	216aa, Aspergillus_pseudotamarii
+6	216aa, Podospora_comata
+7	216aa, Alternaria_alternata
+8	216aa, Trichoderma_harzianum
+9	216aa, Periconia_macrospinosa
+10	216aa, Trichoderma_atroviride_IMI_206040
+11	216aa, Cucurbitaria_berberidis_CBS_394.84
+12	216aa, Podospora_anserina_S_mat+
+13	216aa, Trichoderma_virens_FT-333
+14	216aa, Parastagonospora_nodorum
+15	216aa, Trichoderma_asperellum_CBS_433.97
+16	216aa, Parastagonospora_nodorum
+17	216aa, Escovopsis_weberi
+18	216aa, Trichoderma_virens_Gv29-8
+19	216aa, Alternaria_panax
+20	216aa, Amniculicola_lignicola_CBS_123094
+21	216aa, Aspergillus_avenaceus
+22	216aa, Alternaria_rosae
+23	216aa, Ophidiomyces_ophidiicola
+24	216aa, Ophidiomyces_ophidiicola
+25	216aa, Aplosporella_prunicola_CBS_121167
+26	216aa, Ophidiomyces_ophidiicola
+27	216aa, Glonium_stellatum
+28	216aa, Ophidiomyces_ophidiicola
+29	216aa, Ophidiomyces_ophidiicola
+30	216aa, Ophidiomyces_ophidiicola
+31	216aa, Aspergillus_melleus
+32	216aa, Microsporum_canis_CBS_113480
+33	216aa, Nannizzia_gypsea_CBS_118893
+34	216aa, Myriangium_duriaei_CBS_260.36
+35	216aa, Parastagonospora_nodorum
+>Cluster 66
+0	216aa, Gigaspora_margarita
+1	216aa, Racocetra_fulgida
+>Cluster 67
+0	216aa, Schizopora_paradoxa
+1	216aa, Phellopilus_nigrolimitatus
+>Cluster 68
+0	216aa, Umbilicaria_vellea
+>Cluster 69
+0	216aa, Volvariella_volvacea_WC_439
+>Cluster 70
+0	216aa, Tetrapyrgos_nigripes
+1	216aa, Imleria_badia
+2	216aa, Chiua_virens
+3	216aa, Amanita_rubescens
+4	216aa, Boletus_edulis_BED1
+5	216aa, Boletus_edulis
+6	216aa, Hebeloma_cylindrosporum_h7
+>Cluster 71
+0	216aa, Emydomyces_testavorans
+1	216aa, Xylographa_vitiligo
+2	216aa, Xylographa_soralifera
+3	216aa, Xylographa_opegraphella
+4	216aa, Trichophyton_tonsurans_CBS_112818
+5	216aa, Gomphillus_americanus
+6	216aa, Xylographa_trunciseda
+7	216aa, Trichophyton_interdigitale_H6
+8	216aa, Trichophyton_benhamiae_CBS_112371
+9	216aa, Rhinocladiella_mackenziei_CBS_650.93
+10	216aa, Trichophyton_verrucosum_HKI_0517
+11	216aa, Phylliscum_demangeonii
+12	216aa, Uncinocarpus_reesii_1704
+13	216aa, Polytolypa_hystricis_UAMH7299
+>Cluster 72
+0	216aa, Ramalina_farinacea
+>Cluster 73
+0	216aa, Paramyrothecium_foliicola
+1	216aa, Alternaria_viburni
+2	216aa, Corynespora_cassiicola_Philippines
+3	216aa, Pyrenophora_seminiperda_CCB06
+4	216aa, Alternaria_infectoria
+5	216aa, Alternaria_hordeiaustralica
+6	216aa, Alternaria_conjuncta
+7	216aa, Alternaria_triticimaculans
+8	216aa, Alternaria_ethzedia
+9	216aa, Alternaria
+10	216aa, Alternaria_novae-zelandiae
+11	216aa, Alternaria_metachromatica
+12	216aa, Alternaria
+13	216aa, Alternaria_ventricosa
+14	216aa, Fusarium_mundagurra
+15	216aa, Fusarium_napiforme
+16	216aa, Quercus_suber
+17	216aa, Orbilia_oligospora
+18	216aa, Pyrenophora_teres_f._teres_0-1
+19	216aa, Fusarium_xylarioides
+20	216aa, Fusarium_xylarioides
+21	216aa, Orbilia_oligospora
+22	216aa, Fusarium_pseudoanthophilum
+23	216aa, Didymella_glomerata
+24	216aa, Orbilia_oligospora
+25	216aa, Fusarium_mexicanum
+26	216aa, Orbilia_oligospora
+27	216aa, Orbilia_oligospora
+28	216aa, Alternaria_incomplexa
+29	216aa, Fusarium_gaditjirri
+30	216aa, Orbilia_oligospora
+31	216aa, Orbilia_oligospora
+32	216aa, Fusarium_proliferatum
+33	216aa, Fusarium_verticillioides_7600
+34	216aa, Fusarium_verticillioides
+35	216aa, Fusarium_decemcellulare
+36	216aa, Fusarium_musae
+37	216aa, Fusarium_mangiferae
+38	216aa, Fusarium_proliferatum
+39	216aa, Fusarium_avenaceum
+40	216aa, Fusarium_albosuccineum
+41	216aa, Fusarium_agapanthi
+42	216aa, Zymoseptoria_tritici_IPO323
+43	216aa, Fusarium_equiseti
+44	216aa, Fusarium_circinatum
+45	216aa, Fusarium
+46	216aa, Fusarium_proliferatum
+47	216aa, Fusarium_poae
+48	216aa, Fusarium_poae
+49	216aa, Fusarium_flagelliforme
+50	216aa, Fusarium_graminum
+51	216aa, Fusarium_heterosporum
+52	216aa, Zymoseptoria_brevis
+53	216aa, Fusarium
+54	216aa, Fusarium_pseudocircinatum
+55	216aa, Fusarium_proliferatum
+56	216aa, Trichothecium_roseum
+57	216aa, Fusarium_coicis
+58	191aa, Fusarium_oxysporum_f.
+59	191aa, Fusarium_oxysporum_f.
+60	191aa, Fusarium_oxysporum_NRRL_32931
+61	191aa, Fusarium_oxysporum
+62	191aa, Fusarium_oxysporum_f.
+63	191aa, Fusarium_oxysporum_f.
+64	191aa, Fusarium_oxysporum_f.
+65	191aa, Fusarium_oxysporum_f.
+66	191aa, Fusarium_oxysporum
+67	191aa, Fusarium_oxysporum
+68	191aa, Fusarium_oxysporum
+69	177aa, Fusarium_avenaceum
+70	167aa, Fusarium_oxysporum
+71	138aa, Fusarium_oxysporum_f.
+>Cluster 74
+0	216aa, Periconia_digitata
+1	216aa, Diaporthe_eres
+>Cluster 75
+0	216aa, Chytriomyces_hyalinus
+1	216aa, Chytriomyces_hyalinus
+2	216aa, Chytriomyces_cf._hyalinus_JEL632
+3	216aa, Chytriomyces_confervae
+>Cluster 76
+0	216aa, Aspergillus_sclerotioniger_CBS_115572
+1	216aa, Aspergillus_coremiiformis
+2	216aa, Aspergillus_ibericus_CBS_121593
+3	216aa, Aspergillus_aculeatinus_CBS_121060
+4	216aa, Aspergillus_indologenus_CBS_114.80
+5	216aa, Aspergillus_sclerotiicarbonarius_CBS_121057
+6	216aa, Aspergillus_alliaceus
+7	216aa, Aspergillus_alliaceus
+8	216aa, Aspergillus_melleus
+9	216aa, Aspergillus_steynii_IBT_23096
+10	216aa, Aspergillus_affinis
+11	216aa, Aspergillus_brunneoviolaceus_CBS_621.78
+12	216aa, Aspergillus_japonicus_CBS_114.51
+13	216aa, Aspergillus_carbonarius_ITEM_5010
+>Cluster 77
+0	216aa, Rhizodiscina_lignyota
+>Cluster 78
+0	216aa, Globomyces_pollinis-pini
+1	133aa, Globomyces
+>Cluster 79
+0	216aa, Rhizophlyctis_rosea
+>Cluster 80
+0	216aa, Knufia_peltigerae
+1	216aa, Exophiala_aquamarina_CBS_119918
+2	216aa, Exophiala_xenobiotica
+3	216aa, Exophiala_oligosperma
+4	216aa, Exophiala_sideris
+5	216aa, Exophiala
+>Cluster 81
+0	216aa, Pseudolycoriella_hygida
+1	216aa, Bradysia_coprophila
+2	216aa, Bradysia_coprophila
+>Cluster 82
+0	216aa, Schistocerca_nitens
+>Cluster 83
+0	216aa, Acaulospora_morrowiae
+>Cluster 84
+0	216aa, Xylaria_grammica
+1	216aa, Xylaria_grammica
+2	216aa, Xylariales
+3	216aa, Xylaria_nigripes
+4	216aa, Zasmidium_cellare_ATCC_36951
+5	216aa, Xylaria
+6	216aa, Mycena_galopus_ATCC_62051
+7	216aa, Peltaster_fructicola
+8	216aa, Xylaria
+9	216aa, Fulvia_fulva
+10	216aa, Xylaria
+11	216aa, Xylaria_telfairii
+12	216aa, Mycena_crocata
+13	216aa, Mycena_olivaceomarginata
+14	216aa, Mycena_galopus_ATCC_62051
+15	216aa, Xylariaceae
+16	216aa, Mycena_leptocephala
+17	212aa, Mycena_sanguinolenta
+18	216aa, Xylaria
+19	216aa, Xylaria_flabelliformis
+20	216aa, Xylaria
+21	216aa, Mycena_vitilis
+22	216aa, Polychaeton_citri_CBS_116435
+23	216aa, Xylaria
+24	216aa, Mycena_polygramma
+25	216aa, Mycena
+26	216aa, Xylaria_scruposa
+27	216aa, Zymoseptoria_tritici_ST99CH_3D1
+28	216aa, Mycena_galericulata
+29	216aa, Hypomontagnella_monticulosa
+30	216aa, Zymoseptoria_tritici_IPO323
+31	216aa, Nemania_abortiva
+32	216aa, Xylaria_arbuscula
+33	216aa, Zymoseptoria_tritici_ST99CH_3D7
+34	216aa, Xylaria_castorea
+35	216aa, Xylaria_intraflava
+36	216aa, Xylariaceae
+37	216aa, Mycena
+38	216aa, Xylaria_palmicola
+39	210aa, Mycena_haematopus
+40	216aa, Xylaria_cubensis
+41	216aa, Zymoseptoria_tritici_ST99CH_1A5
+42	216aa, Xylaria_longipes
+43	216aa, Xylaria_hypoxylon
+44	210aa, Mycena_belliae
+45	216aa, Mycena_vitilis
+46	216aa, Ustulina_deusta
+47	216aa, Xylaria_flabelliformis
+48	216aa, Hypoxylon
+49	213aa, Mycena_albidolilacea
+50	216aa, Rostrohypoxylon_terebratum
+51	216aa, Xylaria_acuta
+52	216aa, Hypoxylon_trugodes
+53	216aa, Rosellinia_necatrix
+54	216aa, Ustulina_deusta
+55	216aa, Nemania_serpens
+56	216aa, Annulohypoxylon_truncatum
+57	216aa, Annulohypoxylon_stygium
+58	216aa, Xylaria_polymorpha
+59	216aa, Xylaria_curta
+60	210aa, Mycena_amicta
+61	216aa, Hypoxylon_rubiginosum
+62	216aa, Lasiodiplodia_mahajangana
+63	216aa, Xylaria_arbuscula
+64	216aa, Hypoxylon_fragiforme
+65	216aa, Mycena_alexandri
+66	216aa, Stachybotrys_chartarum_IBT_40288
+67	216aa, Annulohypoxylon_maeteangense
+68	216aa, Annulohypoxylon_nitens
+69	216aa, Xylaria_bambusicola
+70	216aa, Nemania
+71	216aa, Astrocystis_sublimbata
+72	216aa, Annulohypoxylon_moriforme
+73	216aa, Hypoxylon
+74	216aa, Camillea_tinctor
+75	216aa, Nemania
+76	216aa, Biscogniauxia
+77	216aa, Biscogniauxia_mediterranea
+78	216aa, Xylariaceae
+79	216aa, Ramularia_collo-cygni
+80	216aa, Mycena_leptocephala
+81	216aa, Mycena_sanguinolenta
+82	216aa, Hypoxylon_cercidicola
+83	216aa, Biscogniauxia_mediterranea
+84	216aa, Xylaria_arbuscula
+85	216aa, Annulohypoxylon_bovei_var._microspora
+86	216aa, Jackrogersella_minutella
+87	216aa, Xylaria_multiplex
+88	216aa, Dothistroma_septosporum_NZE10
+89	216aa, Xylaria_arbuscula
+90	216aa, Nemania_serpens
+91	216aa, Xylaria_venustula
+92	216aa, Poronia_punctata
+93	216aa, Mycena_capillaripes
+94	216aa, Xylariaceae
+95	216aa, Xylaria_cf._heliscus
+96	216aa, Nemania_serpens
+97	216aa, Stachybotrys_chartarum_IBT_40293
+98	216aa, Stachybotrys_chartarum_IBT_7711
+99	216aa, Nemania_serpens
+100	216aa, Xylaria_curta
+>Cluster 85
+0	216aa, Exophiala_mesophila
+>Cluster 86
+0	216aa, Terfezia_boudieri_ATCC_MYA-4762
+1	216aa, Terfezia_claveryi
+2	216aa, Tirmania_nivea
+>Cluster 87
+0	216aa, Kalaharituber_pfeilii
+>Cluster 88
+0	216aa, Mycena_rebaudengoi
+1	216aa, Amanita_rubescens
+2	216aa, Amylostereum_chailletii
+>Cluster 89
+0	216aa, Stemphylium_lycopersici
+1	216aa, Pyrenophora_tritici-repentis_Pt-1C-BFP
+2	216aa, Pyrenophora_tritici-repentis
+3	216aa, Pyrenophora_tritici-repentis
+>Cluster 90
+0	216aa, Pseudo-nitzschia_multistriata
+>Cluster 91
+0	216aa, Artomyces_pyxidatus
+>Cluster 92
+0	216aa, Xylographa_carneopallida
+>Cluster 93
+0	216aa, Elsinoe_australis
+1	216aa, Elsinoe_ampelina
+2	216aa, Elsinoe_batatas
+3	216aa, Elsinoe_australis
+4	216aa, Sphaceloma_murrayae
+>Cluster 94
+0	216aa, Drepanopeziza_brunnea_f.
+1	216aa, Drepanopeziza_brunnea_f.
+2	216aa, Lachnellula_cervina
+3	216aa, Lachnellula_arida
+4	216aa, Lachnellula_occidentalis
+5	210aa, Trematosphaeria_pertusa
+6	216aa, Lachnellula_suecica
+7	216aa, Lachnellula_subtilissima
+>Cluster 95
+0	216aa, Didymosphaeria_enalia
+1	216aa, Lophiotrema_nucula
+2	216aa, Lentithecium_fluviatile_CBS_122367
+3	216aa, Bimuria_novae-zelandiae_CBS_107.79
+4	210aa, Byssothecium_circinans
+5	211aa, Massarina_eburnea_CBS_473.64
+6	216aa, Lindgomyces_ingoldianus
+>Cluster 96
+0	216aa, Cirrosporium_novae-zelandiae
+>Cluster 97
+0	216aa, Tribonema_minus
+>Cluster 98
+0	216aa, Brachionus_calyciflorus
+>Cluster 99
+0	216aa, Trapelia_coarctata
+>Cluster 100
+0	216aa, Pseudovirgaria_hyperparasitica
+1	216aa, Sphaerulina_musiva_SO2202
+>Cluster 101
+0	216aa, Microdochium_nivale
+>Cluster 102
+0	216aa, Microthyrium_microscopicum
+>Cluster 103
+0	216aa, Nitzschia_inconspicua
+1	216aa, Nitzschia_inconspicua
+>Cluster 104
+0	216aa, Dissoconium_aciculare_CBS_342.82
+>Cluster 105
+0	216aa, Lanmaoa_asiatica
+1	216aa, Boletus_coccyginus
+2	216aa, Gyrodon_lividus
+3	216aa, Boletus_coccyginus
+4	216aa, Butyriboletus_roseoflavus
+5	216aa, Paxillus_ammoniavirescens
+6	216aa, Paxillus_involutus_ATCC_200175
+>Cluster 106
+0	216aa, Seminavis_robusta
+>Cluster 107
+0	216aa, Mortierella
+>Cluster 108
+0	216aa, Amylostereum_chailletii
+1	147aa, Dentipellis_fragilis
+>Cluster 109
+0	216aa, Gracilaria_domingensis
+>Cluster 110
+0	216aa, Funneliformis_mosseae
+1	216aa, Funneliformis_caledonium
+>Cluster 111
+0	216aa, Skeletonema_marinoi
+>Cluster 112
+0	216aa, Powellomyces_hirtus
+>Cluster 113
+0	216aa, Persea_americana
+>Cluster 114
+0	216aa, Diaporthaceae
+>Cluster 115
+0	216aa, Zymoseptoria_brevis
+1	216aa, Zymoseptoria_tritici_ST99CH_1E4
+>Cluster 116
+0	216aa, Acephala_macrosclerotiorum
+>Cluster 117
+0	216aa, Chaetoceros_tenuissimus
+>Cluster 118
+0	216aa, Polytolypa_hystricis_UAMH7299
+>Cluster 119
+0	216aa, Zopfia_rhizophila_CBS_207.26
+1	216aa, Monosporascus
+2	216aa, Fusarium_tricinctum
+3	160aa, Fusarium_avenaceum
+>Cluster 120
+0	216aa, Pholiota_molesta
+>Cluster 121
+0	216aa, Butyriboletus_roseoflavus
+>Cluster 122
+0	216aa, Corynespora_cassiicola_Philippines
+>Cluster 123
+0	216aa, Ochromonadaceae
+>Cluster 124
+0	216aa, Teratosphaeria_destructans
+1	216aa, Teratosphaeria_nubilosa
+>Cluster 125
+0	216aa, Phialophora_attinorum
+>Cluster 126
+0	216aa, Chrysophaeum_taylorii
+>Cluster 127
+0	216aa, Rhynchosporium_agropyri
+>Cluster 128
+0	216aa, Dentipellis
+>Cluster 129
+0	216aa, Colletotrichum_musicola
+1	216aa, Colletotrichum_godetiae
+>Cluster 130
+0	216aa, Fusarium
+1	129aa, Fusarium_oxysporum_Fo47
+2	129aa, Fusarium_oxysporum_Fo47
+3	129aa, Fusarium_oxysporum_f.
+>Cluster 131
+0	216aa, Pyrenophora_seminiperda_CCB06
+1	213aa, Alternaria_tenuissima
+2	135aa, Bipolaris_zeicola_26-R-13
+>Cluster 132
+0	216aa, Mycena_chlorophos
+>Cluster 133
+0	216aa, Orbilia_oligospora
+>Cluster 134
+0	216aa, Thamnophis_sirtalis
+>Cluster 135
+0	216aa, Neocallimastix
+>Cluster 136
+0	216aa, Ascosphaera_atra
+>Cluster 137
+0	216aa, Massarina_eburnea_CBS_473.64
+>Cluster 138
+0	216aa, Coniosporium_apollinis
+>Cluster 139
+0	216aa, Fusarium
+>Cluster 140
+0	216aa, Salinomyces_thailandica
+>Cluster 141
+0	216aa, Rutstroemia
+>Cluster 142
+0	216aa, Pavlovales
+>Cluster 143
+0	216aa, Deltaproteobacteria_bacterium_CG2_30_63_29
+>Cluster 144
+0	216aa, Candidatus_Poseidoniaceae_archaeon
+1	216aa, Candidatus_Poseidoniales_archaeon
+2	216aa, Candidatus_Poseidoniales_archaeon
+3	216aa, Candidatus_Poseidoniales_archaeon
+4	183aa, Euryarchaeota_archaeon
+>Cluster 145
+0	216aa, Microscillaceae_bacterium
+>Cluster 146
+0	216aa, uncultured_Kordia
+1	216aa, Kordia_antarctica
+>Cluster 147
+0	216aa, Candidatus_Heimdallarchaeota_archaeon
+>Cluster 148
+0	215aa, Leptospira_kanakyensis
+1	216aa, Leptospira_kanakyensis
+>Cluster 149
+0	216aa, Xanthomarina
+1	216aa, Psychroserpens
+2	216aa, Lacinutrix_mariniflava
+3	216aa, Gelidibacter_gilvus
+4	216aa, Gelidibacter_gilvus
+5	216aa, Mesoflavibacter
+6	216aa, Urechidicola_croceus
+7	216aa, Lacinutrix
+8	216aa, Tenacibaculum
+9	216aa, Olleya_namhaensis
+10	216aa, Aequorivita_xiaoshiensis
+11	216aa, Tenacibaculum_todarodis
+12	216aa, Polaribacter_sejongensis
+13	216aa, Olleya
+14	216aa, Patiriisocius_marinus
+15	216aa, Lacinutrix
+16	216aa, Lacinutrix
+17	216aa, Tenacibaculum_finnmarkense
+18	216aa, Tenacibaculum_finnmarkense
+19	216aa, Tenacibaculum_finnmarkense
+20	216aa, Tenacibaculum_finnmarkense
+21	216aa, Tenacibaculum_finnmarkense
+22	216aa, Tenacibaculum_finnmarkense
+23	216aa, Tenacibaculum_finnmarkense
+24	216aa, Xanthomarina
+25	216aa, Tenacibaculum_finnmarkense
+26	216aa, Tenacibaculum_finnmarkense
+27	216aa, Algibacter
+28	216aa, Algibacter
+29	216aa, uncultured_Lacinutrix
+>Cluster 150
+0	216aa, Thermococcus
+1	216aa, Thermococcus_siculi
+>Cluster 151
+0	216aa, Nonlabens_ulvanivorans
+1	216aa, Marixanthomonas
+2	216aa, Nonlabens_ulvanivorans
+3	208aa, Nonlabens_mediterrranea
+>Cluster 152
+0	216aa, Candidatus_Heimdallarchaeum_aukensis
+>Cluster 153
+0	216aa, Dentiscutata_erythropus
+>Cluster 154
+0	216aa, Nannocystis
+1	216aa, Nannocystis
+2	216aa, Nannocystis_bainbridge
+>Cluster 155
+0	216aa, Nannocystis
+1	216aa, Nannocystis
+>Cluster 156
+0	216aa, Chloroflexota_bacterium
+>Cluster 157
+0	216aa, Myxococcota_bacterium
+>Cluster 158
+0	216aa, Candidatus_Heimdallarchaeota_archaeon
+>Cluster 159
+0	216aa, Deltaproteobacteria_bacterium
+>Cluster 160
+0	216aa, Flavicella_sediminum
+>Cluster 161
+0	214aa, Deltaproteobacteria_bacterium
+1	216aa, Myxococcota_bacterium
+2	216aa, Deltaproteobacteria_bacterium
+>Cluster 162
+0	216aa, Myxococcales_bacterium
+>Cluster 163
+0	216aa, Sandaracinaceae_bacterium
+1	216aa, Myxococcales_bacterium
+>Cluster 164
+0	216aa, Cloacibacterium_caeni
+1	216aa, Bacteroidota_bacterium
+2	216aa, unclassified_Chryseobacterium
+3	216aa, Chryseobacterium
+4	216aa, Chryseobacterium_gambrini
+>Cluster 165
+0	216aa, Pseudomonadota_bacterium
+>Cluster 166
+0	216aa, Euryarchaeota_archaeon
+1	216aa, Euryarchaeota_archaeon
+2	216aa, Candidatus_Poseidonia_alphae
+3	216aa, Candidatus_Poseidoniaceae_archaeon
+4	216aa, Flavobacteriales_bacterium
+5	216aa, Candidatus_Poseidoniales_archaeon
+6	216aa, Candidatus_Poseidoniaceae_archaeon
+7	214aa, Euryarchaeota_archaeon
+8	216aa, Euryarchaeota_archaeon
+9	216aa, Candidatus_Poseidonia
+10	216aa, Candidatus_Poseidonia_alphae
+11	216aa, archaeon
+12	216aa, Euryarchaeota_archaeon
+13	216aa, Candidatus_Poseidoniales_archaeon
+14	191aa, Euryarchaeota_archaeon
+>Cluster 167
+0	216aa, Phycisphaerales_bacterium
+>Cluster 168
+0	215aa, Leptospira_levettii
+1	216aa, Leptospira_levettii
+2	216aa, Leptospira_levettii
+3	216aa, unclassified_Leptospira
+>Cluster 169
+0	216aa, Myxococcales_bacterium
+1	211aa, Myxococcales_bacterium
+>Cluster 170
+0	216aa, Methanococcoides
+1	216aa, Ancylomarina_longa
+2	153aa, Bacteroidales_bacterium
+>Cluster 171
+0	216aa, Microvenator_marinus
+>Cluster 172
+0	216aa, Candidatus_Thermoplasmatota_archaeon
+>Cluster 173
+0	216aa, Chryseobacterium_caseinilyticum
+1	216aa, unclassified_Kaistella
+2	216aa, Chryseobacterium_formosus
+>Cluster 174
+0	216aa, Tenacibaculum_dicentrarchi
+1	216aa, Lutibacter_oricola
+>Cluster 175
+0	216aa, Chrysochromulina_tobinii
+>Cluster 176
+0	216aa, Chitinophagaceae_bacterium
+>Cluster 177
+0	216aa, Bacteroidota_bacterium
+>Cluster 178
+0	213aa, Saprospiraceae_bacterium
+1	216aa, Flavipsychrobacter_stenotrophus
+2	216aa, Flavipsychrobacter_stenotrophus
+3	213aa, Bacteroidota_bacterium
+4	216aa, Lacibacter
+5	213aa, Bacteroidota_bacterium
+6	213aa, Flavobacteriales_bacterium
+7	185aa, Chitinophagaceae_bacterium
+>Cluster 179
+0	216aa, Bacteroidales_bacterium
+1	216aa, Bacteroidales_bacterium
+>Cluster 180
+0	216aa, Neolewinella_persica
+>Cluster 181
+0	216aa, Tenacibaculum_finnmarkense
+>Cluster 182
+0	216aa, Labilibaculum
+>Cluster 183
+0	216aa, Lewinellaceae_bacterium
+>Cluster 184
+0	216aa, Taishania_pollutisoli
+1	213aa, Fluviicola
+>Cluster 185
+0	216aa, Candidatus_Methanomethylophilaceae_archaeon
+1	216aa, Methanofollis_liminatans_DSM_4140
+2	216aa, Methanofollis_tationis
+3	216aa, Methanomicrobiales_archaeon_HGW-Methanomicrobiales-5
+4	216aa, Methanoculleus_bourgensis
+5	216aa, Methanocalculus
+6	216aa, Methanofollis_formosanus
+7	216aa, Methanocalculus_taiwanensis
+8	209aa, Methanofollis_liminatans
+9	216aa, Methanogenium_organophilum
+>Cluster 186
+0	216aa, Polyangiaceae_bacterium
+>Cluster 187
+0	216aa, Defluviicoccus
+1	216aa, Rhodospirillales_bacterium
+2	216aa, Gemmatimonadota_bacterium
+>Cluster 188
+0	216aa, Streptomyces_carminius
+>Cluster 189
+0	216aa, Chryseobacterium
+1	216aa, uncultured_Chryseobacterium
+2	216aa, uncultured_Chryseobacterium
+3	216aa, Chryseobacterium
+4	216aa, Chryseobacterium
+5	216aa, Chlorobiota_bacterium
+6	216aa, Chryseobacterium_gambrini
+7	216aa, Chryseobacterium
+8	216aa, Chryseobacterium_gambrini
+>Cluster 190
+0	216aa, Thermococcus
+1	216aa, Thermococcus
+>Cluster 191
+0	216aa, Crocinitomicaceae_bacterium
+>Cluster 192
+0	216aa, Chryseobacterium
+1	216aa, Epilithonimonas_vandammei
+2	216aa, Epilithonimonas
+>Cluster 193
+0	216aa, Amniculibacterium_aquaticum
+>Cluster 194
+0	214aa, Myxococcales_bacterium
+1	209aa, Polyangiaceae_bacterium
+2	216aa, Myxococcales_bacterium
+>Cluster 195
+0	216aa, Rhodospirillaceae_bacterium
+1	165aa, Rhodospirillaceae_bacterium
+>Cluster 196
+0	216aa, Dehalococcoidia_bacterium
+1	216aa, Chloroflexota_bacterium
+>Cluster 197
+0	216aa, Lujinxingia_vulgaris
+1	216aa, Lujinxingia_vulgaris
+>Cluster 198
+0	216aa, Candidatus_Poseidoniales_archaeon
+1	216aa, Candidatus_Poseidoniaceae_archaeon
+>Cluster 199
+0	216aa, Crocinitomicaceae_bacterium
+>Cluster 200
+0	216aa, Candidatus_Poseidoniaceae_archaeon
+1	216aa, Euryarchaeota_archaeon
+2	216aa, Candidatus_Poseidoniales_archaeon
+3	216aa, Euryarchaeota_archaeon
+4	216aa, Candidatus_Poseidonia_alphae
+>Cluster 201
+0	216aa, Saccharicrinis_carchari
+>Cluster 202
+0	216aa, Plebeiobacterium_sediminum
+>Cluster 203
+0	216aa, Deltaproteobacteria_bacterium
+>Cluster 204
+0	216aa, Nonomuraea
+>Cluster 205
+0	216aa, Streptomyces
+>Cluster 206
+0	216aa, Candidatus_Poribacteria_bacterium
+1	216aa, Gemmatimonadota_bacterium
+2	216aa, Candidatus_Poribacteria_bacterium
+>Cluster 207
+0	216aa, Methanolobus_vulcani
+1	216aa, Methanolobus_vulcani
+2	216aa, Methanococcoides_methylutens
+3	216aa, Methanolobus_bombayensis
+4	216aa, Methanolobus
+5	216aa, Methanolobus_psychrotolerans
+6	214aa, Methanolobus_chelungpuianus
+7	216aa, Methanolobus
+8	216aa, Methanolobus_vulcani
+9	216aa, Methanolobus_vulcani
+10	216aa, Methanosarcina
+>Cluster 208
+0	216aa, Chloroflexota_bacterium
+1	216aa, Chloroflexota_bacterium
+2	113aa, Chloroflexota_bacterium
+>Cluster 209
+0	216aa, Bacteroidota_bacterium
+>Cluster 210
+0	216aa, Cryptosporangium_phraense
+>Cluster 211
+0	216aa, bacterium
+>Cluster 212
+0	216aa, Kibdelosporangium_aridum
+1	216aa, Kibdelosporangium_aridum
+>Cluster 213
+0	216aa, uncultured_Tenacibaculum
+1	216aa, uncultured_Tenacibaculum
+2	216aa, Tenacibaculum
+>Cluster 214
+0	216aa, unclassified_Imperialibacter
+>Cluster 215
+0	216aa, Kaistella_yonginensis
+>Cluster 216
+0	216aa, Planctomycetota_bacterium
+1	216aa, Planctomycetota_bacterium
+>Cluster 217
+0	216aa, Cystobacter_ferrugineus
+1	216aa, Myxococcus_hansupus
+2	216aa, Pyxidicoccus_caerfyrddinensis
+3	216aa, Pyxidicoccus_xibeiensis
+4	216aa, Corallococcus_llansteffanensis
+5	213aa, Corallococcus_llansteffanensis
+6	216aa, Corallococcus_exercitus
+7	213aa, Corallococcus_exercitus
+>Cluster 218
+0	216aa, Candidatus_Bathyarchaeota_archaeon
+>Cluster 219
+0	216aa, Methanomicrobium
+>Cluster 220
+0	216aa, Candidatus_Heimdallarchaeota_archaeon
+>Cluster 221
+0	216aa, Bacteroidia_bacterium
+>Cluster 222
+0	216aa, Boletus_reticuloceps
+>Cluster 223
+0	216aa, Bacteroidales_bacterium_Barb6
+>Cluster 224
+0	216aa, Roseivirga_pacifica
+>Cluster 225
+0	216aa, Methanoculleus
+1	216aa, Methanofollis
+2	216aa, Methanosarcina
+>Cluster 226
+0	216aa, Cenarchaeum_symbiont_of_Oopsacas_minuta
+>Cluster 227
+0	216aa, Methanoplanus
+1	216aa, Methanoplanus_limicola_DSM_2279
+2	216aa, Methanoplanus_limicola
+3	216aa, Methanoplanus_endosymbiosus
+>Cluster 228
+0	216aa, Chondromyces_crocatus
+1	216aa, Chondromyces_apiculatus
+>Cluster 229
+0	216aa, Flammeovirga_pacifica
+>Cluster 230
+0	216aa, Thermomonospora_umbrina
+1	216aa, Thermomonospora
+2	216aa, Thermomonospora_amylolytica
+3	216aa, Thermomonospora_cellulosilytica
+4	216aa, Thermomonospora_echinospora
+5	216aa, Thermomonospora_catenispora
+>Cluster 231
+0	216aa, Thermoplasmata_archaeon
+>Cluster 232
+0	216aa, Lujinxingiaceae_bacterium
+>Cluster 233
+0	216aa, Deltaproteobacteria_bacterium
+>Cluster 234
+0	216aa, archaeon
+>Cluster 235
+0	216aa, Myxococcales_bacterium
+>Cluster 236
+0	216aa, Dehalococcoidia_bacterium
+1	216aa, Flavobacteriales_bacterium
+>Cluster 237
+0	216aa, Lewinella
+>Cluster 238
+0	216aa, Gammaproteobacteria_bacterium
+>Cluster 239
+0	216aa, Bacteroidota_bacterium
+1	216aa, Bacteroidota_bacterium
+2	216aa, Flavobacterium_filum
+>Cluster 240
+0	216aa, Bacteroidales_bacterium
+1	216aa, Methanomicrobiaceae_archaeon_CYW5
+2	216aa, Acholeplasmataceae_bacterium
+3	216aa, Methanocorpusculum
+4	216aa, Acholeplasmataceae_bacterium
+5	209aa, Candidatus_Cloacimonadota_bacterium
+>Cluster 241
+0	216aa, Myxococcus
+1	216aa, Myxococcus
+2	216aa, Myxococcus_fulvus
+3	216aa, Myxococcus
+4	213aa, Myxococcus
+5	216aa, Myxococcus_qinghaiensis
+6	216aa, Myxococcus
+7	213aa, Myxococcus
+>Cluster 242
+0	216aa, Candidatus_Poribacteria_bacterium
+>Cluster 243
+0	216aa, Thiomonas
+>Cluster 244
+0	216aa, Methanomassiliicoccales_archaeon_PtaU1.Bin030
+>Cluster 245
+0	216aa, Hyalangium_minutum
+>Cluster 246
+0	216aa, Myxococcales_bacterium
+>Cluster 247
+0	216aa, Citreicoccus_inhibens
+1	216aa, Corallococcus
+2	213aa, Corallococcus
+3	216aa, Corallococcus_exiguus
+4	213aa, Corallococcus
+5	216aa, Corallococcus
+6	213aa, Corallococcus_exiguus
+7	216aa, Corallococcus
+8	216aa, Corallococcus_exiguus
+9	216aa, Corallococcus_carmarthensis
+10	213aa, Corallococcus_carmarthensis
+11	213aa, Corallococcus_exiguus
+12	216aa, Corallococcus_interemptor
+13	213aa, Corallococcus_interemptor
+14	213aa, Myxococcaceae_bacterium
+>Cluster 248
+0	216aa, Methanomethylovorans_hollandica
+>Cluster 249
+0	216aa, Dysgonamonadaceae_bacterium
+1	216aa, Prevotella
+>Cluster 250
+0	216aa, Candidatus_Methanoperedenaceae_archaeon
+>Cluster 251
+0	216aa, Nostoc
+>Cluster 252
+0	216aa, Flavobacteriaceae_bacterium
+>Cluster 253
+0	216aa, Kibdelosporangium_persicum
+>Cluster 254
+0	216aa, Desulfobacterales_bacterium
+1	216aa, Deltaproteobacteria_bacterium
+>Cluster 255
+0	216aa, Candidatus_Methanoperedens
+>Cluster 256
+0	216aa, Methanomicrobium
+>Cluster 257
+0	216aa, Candidatus_Aenigmarchaeota_archaeon
+1	216aa, Candidatus_Heimdallarchaeota_archaeon
+2	216aa, Methanococcoides
+>Cluster 258
+0	216aa, Alphaproteobacteria_bacterium
+>Cluster 259
+0	216aa, Methanosarcinaceae_archaeon_Ag5
+1	216aa, Methanosarcinaceae_archaeon_Ac7
+>Cluster 260
+0	216aa, Bacteroidales_bacterium
+>Cluster 261
+0	216aa, Syntrophotalea_carbinolica
+>Cluster 262
+0	216aa, Monoraphidium_minutum
+1	216aa, Raphidocelis_subcapitata
+>Cluster 263
+0	216aa, uncultured_Candidatus_Thioglobus
+>Cluster 264
+0	216aa, Methanocalculus
+>Cluster 265
+0	216aa, Helicobacter_felis
+1	214aa, Helicobacter_felis
+2	216aa, Helicobacter_felis
+3	216aa, Helicobacter_felis
+4	214aa, Helicobacter
+5	214aa, Helicobacter
+6	171aa, Helicobacter_felis
+7	185aa, Helicobacter_felis
+>Cluster 266
+0	216aa, Acholeplasma_laidlawii
+>Cluster 267
+0	216aa, uncultured_Treponema
+1	216aa, uncultured_Treponema
+2	216aa, Treponema
+3	216aa, Treponema
+4	216aa, Treponema
+5	216aa, Treponema_vincentii
+6	216aa, Treponema_medium
+7	132aa, uncultured_Treponema
+>Cluster 268
+0	216aa, Methanoregula
+>Cluster 269
+0	216aa, Candidatus_Bathyarchaeota_archaeon
+>Cluster 270
+0	216aa, Alphaproteobacteria_bacterium
+>Cluster 271
+0	216aa, Thalassotalea
+>Cluster 272
+0	216aa, Methanoplanus_limicola
+>Cluster 273
+0	216aa, Bacteroidales_bacterium
+>Cluster 274
+0	213aa, Acinetobacter
+1	213aa, Acinetobacter_parvus_NIPH_1103
+2	216aa, Acinetobacter_parvus
+3	213aa, Acinetobacter
+4	213aa, Acinetobacter
+>Cluster 275
+0	216aa, Acinetobacter_terrestris
+1	216aa, Acinetobacter
+2	216aa, uncultured_Acinetobacter
+3	216aa, Acinetobacter_towneri
+4	216aa, Acinetobacter_gandensis
+5	216aa, Acinetobacter_gandensis
+6	216aa, Acinetobacter
+7	216aa, Acinetobacter_towneri
+8	216aa, Acinetobacter
+9	216aa, Acinetobacter
+10	216aa, Acinetobacter_indicus
+11	216aa, Acinetobacter_indicus
+>Cluster 276
+0	216aa, Bacillota_bacterium
+>Cluster 277
+0	216aa, Aduncisulcus_paluster
+>Cluster 278
+0	216aa, Marinilabiliaceae_bacterium
+>Cluster 279
+0	216aa, Alphaproteobacteria_bacterium
+>Cluster 280
+0	216aa, Vibrio_harveyi
+1	216aa, Vibrionales_bacterium_C3R12
+2	216aa, Vibrio
+3	216aa, Vibrio_parahaemolyticus
+4	216aa, Vibrio_alginolyticus
+5	216aa, Vibrio_parahaemolyticus
+6	216aa, Vibrio_parahaemolyticus
+7	216aa, Vibrio_harveyi
+8	216aa, Vibrio_diabolicus
+9	216aa, Vibrio_hepatarius
+10	216aa, Vibrio_parahaemolyticus
+11	216aa, Vibrio_alginolyticus
+12	216aa, Vibrio_parahaemolyticus
+13	216aa, Vibrio
+14	216aa, Vibrio_parahaemolyticus
+15	216aa, Vibrio_vulnificus
+16	216aa, Vibrio_parahaemolyticus
+17	216aa, Vibrio_parahaemolyticus
+18	216aa, Vibrio_alginolyticus
+19	216aa, Vibrio_parahaemolyticus
+20	216aa, Photobacterium_swingsii
+21	216aa, Vibrio_parahaemolyticus
+22	216aa, Vibrio_vulnificus
+23	216aa, Vibrio_mediterranei
+24	216aa, Vibrio_parahaemolyticus
+25	216aa, Vibrio_parahaemolyticus
+26	216aa, Vibrio_owensii
+27	216aa, Salinivibrio
+28	216aa, Pseudomonadales_bacterium
+29	216aa, Vibrio_splendidus
+30	216aa, Vibrio_breoganii
+31	216aa, Vibrio
+32	216aa, Vibrio_splendidus
+33	216aa, Vibrio_crassostreae
+34	216aa, Vibrio_splendidus
+35	216aa, Vibrio_rumoiensis
+36	216aa, Vibrio_breoganii
+37	216aa, Vibrio_breoganii
+>Cluster 281
+0	216aa, Treponema
+>Cluster 282
+0	216aa, Aureivirga
+>Cluster 283
+0	216aa, Gammaproteobacteria_bacterium
+>Cluster 284
+0	216aa, Psychrobacter
+1	216aa, Psychrobacter
+2	216aa, Psychrobacter
+3	216aa, Psychrobacter_alimentarius
+4	216aa, Psychrobacter_fozii
+>Cluster 285
+0	216aa, Bisgaardia_hudsonensis
+>Cluster 286
+0	216aa, Psychrobacter
+1	216aa, Psychrobacter
+2	216aa, Psychrobacter
+>Cluster 287
+0	216aa, Neisseria_weaveri
+1	216aa, unclassified_Neisseria
+>Cluster 288
+0	216aa, Clostridiales_bacterium
+>Cluster 289
+0	216aa, Candidatus_Poribacteria_bacterium
+>Cluster 290
+0	216aa, Neisseria_chenwenguii
+>Cluster 291
+0	216aa, Psychrobacter_lutiphocae
+>Cluster 292
+0	216aa, Planctomycetota_bacterium
+>Cluster 293
+0	216aa, Methyloprofundus_sedimenti
+>Cluster 294
+0	216aa, Treponema
+>Cluster 295
+0	216aa, Moraxella_osloensis
+>Cluster 296
+0	216aa, Gammaproteobacteria_bacterium
+>Cluster 297
+0	216aa, Colwellia
+1	216aa, Pseudoalteromonas
+2	216aa, Colwellia_ponticola
+3	216aa, Shewanella_marisflavi
+4	216aa, Pseudoalteromonas
+5	216aa, Shewanella
+6	216aa, Morganella_morganii
+7	216aa, Colwellia
+8	216aa, Pseudoalteromonas
+9	216aa, Shewanella
+10	216aa, Shewanella
+11	216aa, Alteromonas_stellipolaris
+12	216aa, Shewanella_insulae
+13	216aa, Shewanella
+14	216aa, Shewanella_baltica
+>Cluster 298
+0	216aa, Aliivibrio_fischeri
+1	216aa, Vibrio_cholerae
+2	216aa, Vibrio_metoecus
+3	216aa, Vibrio_cholerae
+4	216aa, unclassified_Pseudoalteromonas
+5	216aa, Vibrio_cholerae
+6	216aa, Shewanella_putrefaciens
+7	216aa, Vibrio_vulnificus
+8	216aa, Pseudoalteromonas
+9	216aa, Shewanella_baltica
+10	216aa, Vibrio_rotiferianus
+11	216aa, Vibrio_parahaemolyticus
+12	216aa, Vibrio_parahaemolyticus
+13	216aa, Vibrio_harveyi_group
+14	216aa, Vibrio_marinisediminis
+15	216aa, Vibrio_aestuarianus
+16	216aa, Colwellia_demingiae
+17	216aa, Vibrio_genomo
+18	209aa, Vibrio_parahaemolyticus
+19	216aa, Alteromonas_portus
+20	216aa, Shewanella
+21	216aa, Vibrio_parahaemolyticus
+22	216aa, Vibrio_vulnificus
+23	216aa, Vibrio_parahaemolyticus
+24	216aa, Vibrio_parahaemolyticus
+25	216aa, Vibrio_parahaemolyticus
+26	216aa, Vibrio
+27	216aa, Vibrio_parahaemolyticus
+28	216aa, Vibrio_parahaemolyticus
+29	216aa, Vibrio_parahaemolyticus
+30	216aa, Vibrio_vulnificus
+31	216aa, Photobacterium_kishitanii
+32	216aa, Vibrio_parahaemolyticus
+33	216aa, Vibrio_parahaemolyticus
+34	216aa, Vibrio_parahaemolyticus
+35	216aa, Vibrio_vulnificus
+36	216aa, Vibrio_parahaemolyticus
+37	216aa, Vibrio
+38	216aa, Vibrio_parahaemolyticus
+39	216aa, Vibrio_parahaemolyticus
+40	216aa, Vibrio_parahaemolyticus
+41	216aa, Vibrio_harveyi_group
+42	216aa, Vibrio_vulnificus
+43	216aa, Vibrio_parahaemolyticus
+44	216aa, Vibrio_parahaemolyticus
+45	216aa, Vibrio_vulnificus
+46	216aa, Vibrio
+47	216aa, Vibrio_parahaemolyticus
+48	216aa, Photobacterium_kishitanii
+49	216aa, Vibrio_parahaemolyticus
+50	216aa, Vibrio_parahaemolyticus
+51	216aa, Vibrio_parahaemolyticus
+52	216aa, Vibrio_parahaemolyticus
+53	216aa, Vibrio_vulnificus
+54	216aa, Vibrio_vulnificus
+55	216aa, Vibrio_parahaemolyticus
+56	216aa, Vibrio_fluvialis
+57	216aa, Vibrio_harveyi_group
+58	216aa, Vibrio_parahaemolyticus
+59	216aa, Vibrio_parahaemolyticus
+60	216aa, Vibrio_parahaemolyticus
+61	216aa, Vibrio_vulnificus
+62	216aa, Vibrio_parahaemolyticus
+63	216aa, Vibrio
+64	216aa, Vibrio_parahaemolyticus
+65	216aa, Vibrio_parahaemolyticus
+66	216aa, Vibrio_parahaemolyticus
+67	216aa, Vibrio_fluvialis
+68	216aa, Vibrio_fluvialis
+69	216aa, Vibrio_parahaemolyticus
+70	216aa, Vibrio_parahaemolyticus
+71	216aa, Vibrio_harveyi_group
+72	216aa, Vibrio_parahaemolyticus
+73	216aa, Vibrio_parahaemolyticus
+74	216aa, Vibrio_parahaemolyticus
+75	216aa, Vibrio_parahaemolyticus
+76	216aa, Vibrio_parahaemolyticus
+77	216aa, Photobacterium_damselae
+78	216aa, Vibrio_parahaemolyticus
+79	216aa, Vibrio_cholerae
+80	216aa, Vibrio_fluvialis
+81	216aa, Vibrio_parahaemolyticus
+82	216aa, Vibrio_parahaemolyticus
+83	216aa, Vibrio_parahaemolyticus
+84	216aa, Vibrio_parahaemolyticus
+85	216aa, Vibrio_parahaemolyticus
+86	216aa, Vibrio_fluvialis
+87	216aa, Vibrio_parahaemolyticus
+88	216aa, Vibrio_harveyi
+89	216aa, Vibrio_parahaemolyticus
+90	216aa, Vibrio_parahaemolyticus
+91	216aa, Vibrio
+92	216aa, Vibrio_parahaemolyticus
+93	216aa, Vibrio_parahaemolyticus
+94	216aa, Vibrio_parahaemolyticus
+95	216aa, Vibrio_parahaemolyticus
+96	216aa, Vibrio_parahaemolyticus
+97	216aa, Vibrio
+98	216aa, Shewanella_baltica
+99	216aa, Aliivibrio
+100	216aa, Vibrio_parahaemolyticus
+101	216aa, Vibrio
+102	216aa, Vibrio_parahaemolyticus
+103	216aa, Vibrio_parahaemolyticus
+104	216aa, Vibrio_parahaemolyticus
+105	216aa, Vibrio_parahaemolyticus
+106	216aa, Vibrio_parahaemolyticus
+107	216aa, Vibrio_parahaemolyticus
+108	216aa, Vibrio_vulnificus
+109	216aa, Vibrio_parahaemolyticus
+110	216aa, Vibrio
+111	216aa, Photobacterium_damselae
+112	216aa, Photobacterium_leiognathi
+113	216aa, Photobacterium_damselae_sub
+114	216aa, Vibrio_parahaemolyticus
+115	216aa, Vibrio_parahaemolyticus
+116	216aa, Vibrio_parahaemolyticus
+117	216aa, Vibrio_parahaemolyticus
+118	216aa, Vibrio_parahaemolyticus
+119	200aa, Vibrio_parahaemolyticus
+120	204aa, Vibrio_parahaemolyticus
+121	192aa, Vibrio_parahaemolyticus
+>Cluster 299
+0	216aa, Pseudomonadota_bacterium
+1	216aa, Myxococcota_bacterium
+>Cluster 300
+0	216aa, Pasteurellaceae_bacterium
+>Cluster 301
+0	216aa, Alcanivorax_profundi
+>Cluster 302
+0	216aa, Psychromonas
+1	216aa, Alteromonas
+>Cluster 303
+0	216aa, Treponema_denticola
+>Cluster 304
+0	216aa, Photobacterium_kishitanii
+>Cluster 305
+0	216aa, Bacteroidales_bacterium
+>Cluster 306
+0	216aa, Rhodoferax_antarcticus
+>Cluster 307
+0	216aa, Pseudoalteromonas
+1	216aa, Shewanella
+2	216aa, Shewanella_subflava
+3	216aa, Pseudoalteromonas
+4	216aa, Photobacterium_profundum
+>Cluster 308
+0	216aa, Betaproteobacteria_bacterium
+>Cluster 309
+0	216aa, uncultured_Psychrobacter
+1	216aa, Psychrobacter
+>Cluster 310
+0	216aa, Timema_shepardi
+1	63aa, Timema_douglasi
+>Cluster 311
+0	216aa, Chitinivibrionia_bacterium
+>Cluster 312
+0	216aa, Rhodospirillaceae_bacterium
+>Cluster 313
+0	216aa, Treponema
+1	216aa, Treponema
+2	216aa, Treponema
+3	216aa, Treponema
+>Cluster 314
+0	216aa, Fibrobacter
+1	216aa, uncultured_Fibrobacter
+2	216aa, Fibrobacter
+3	216aa, Fibrobacter
+4	216aa, Fibrobacter
+>Cluster 315
+0	216aa, Spiroplasma_culicicola
+>Cluster 316
+0	216aa, Streptosporangium
+>Cluster 317
+0	216aa, Ferrovibrio
+>Cluster 318
+0	216aa, Moritella
+>Cluster 319
+0	216aa, unclassified_Fibrobacter
+1	216aa, Fibrobacter
+2	216aa, Fibrobacter
+3	216aa, unclassified_Fibrobacter
+>Cluster 320
+0	216aa, Fibrobacteraceae_bacterium
+>Cluster 321
+0	216aa, Bacteroidales_bacterium
+>Cluster 322
+0	216aa, Haloplasma_contractile
+>Cluster 323
+0	216aa, Chlamydomonas
+>Cluster 324
+0	216aa, Chlamydomonas_schloesseri
+1	216aa, Chlamydomonas_reinhardtii
+>Cluster 325
+0	216aa, Fibrobacter_succinogenes
+1	216aa, Fibrobacter
+2	216aa, Fibrobacter
+3	216aa, Fibrobacter
+4	209aa, Fibrobacter
+5	216aa, uncultured_Fibrobacter
+6	216aa, Fibrobacter
+7	216aa, Fibrobacter
+8	216aa, Fibrobacter
+9	216aa, uncultured_Fibrobacter
+10	216aa, Fibrobacter
+>Cluster 326
+0	216aa, Spiroplasma_corruscae
+>Cluster 327
+0	216aa, Legionella_santicrucis
+>Cluster 328
+0	216aa, Oscillospiraceae_bacterium
+>Cluster 329
+0	216aa, Chlamydomonas_incerta
+>Cluster 330
+0	215aa, Pseudomonadota_bacterium
+>Cluster 331
+0	215aa, Candidatus_Uabimicrobium_amorphum
+>Cluster 332
+0	215aa, Euryarchaeota_archaeon
+>Cluster 333
+0	215aa, Deferribacteraceae_bacterium
+>Cluster 334
+0	215aa, Alphaproteobacteria_bacterium
+>Cluster 335
+0	215aa, Methanocellales_archaeon
+>Cluster 336
+0	215aa, Pseudomonadota_bacterium
+>Cluster 337
+0	215aa, Wohlfahrtiimonas_chitiniclastica
+1	215aa, Wohlfahrtiimonas_chitiniclastica
+>Cluster 338
+0	215aa, Clostridia_bacterium
+>Cluster 339
+0	215aa, Clostridia_bacterium
+1	215aa, Clostridia_bacterium
+>Cluster 340
+0	215aa, Clostridia_bacterium
+>Cluster 341
+0	215aa, Clostridia_bacterium
+1	215aa, Clostridia_bacterium
+>Cluster 342
+0	215aa, Clostridia_bacterium
+>Cluster 343
+0	215aa, Clostridia_bacterium
+>Cluster 344
+0	214aa, Actinia_tenebrosa
+>Cluster 345
+0	214aa, Lepidopterella_palustris_CBS_459.81
+>Cluster 346
+0	214aa, Massariosphaeria_phaeospora
+>Cluster 347
+0	214aa, Pelomyxa_schiedti
+>Cluster 348
+0	214aa, unclassified_Planktothricoides
+1	214aa, Anabaena
+2	214aa, Nostoc
+>Cluster 349
+0	214aa, Dolichospermum_heterosporum
+1	214aa, Aphanizomenonaceae
+2	214aa, Sphaerospermopsis
+3	214aa, Nostoc
+4	214aa, Anabaena
+5	214aa, Aphanizomenon
+6	214aa, Nostoc
+7	214aa, Nodularia_sphaerocarpa
+8	214aa, Anabaena
+9	214aa, Anabaena
+10	200aa, Sphaerospermopsis
+>Cluster 350
+0	214aa, Myxococcota_bacterium
+>Cluster 351
+0	214aa, Sphingobacteriales_bacterium_TSM_CSM
+>Cluster 352
+0	214aa, Myxococcales_bacterium
+1	214aa, Myxococcales_bacterium
+>Cluster 353
+0	214aa, Pseudomonadota_bacterium
+>Cluster 354
+0	214aa, Candidatus_Lokiarchaeota_archaeon
+>Cluster 355
+0	214aa, Myxococcales_bacterium
+>Cluster 356
+0	214aa, Candidatus_Thiodictyon_syntrophicum
+>Cluster 357
+0	214aa, Myxococcales_bacterium
+1	214aa, Myxococcales_bacterium
+>Cluster 358
+0	214aa, Sulfurimonas_gotlandica
+>Cluster 359
+0	214aa, Arcobacter
+1	214aa, Aliarcobacter_cryaerophilus
+2	214aa, Arcobacter
+3	214aa, Aliarcobacter_butzleri
+4	214aa, Aliarcobacter
+>Cluster 360
+0	214aa, Campylobacteraceae_bacterium
+1	128aa, Elusimicrobiota_bacterium
+>Cluster 361
+0	214aa, Anaerobiospirillum
+1	214aa, unclassified_Anaerobiospirillum
+>Cluster 362
+0	214aa, uncultured_Actinobacillus
+>Cluster 363
+0	214aa, Helicobacter_bilis
+1	214aa, Helicobacter
+2	168aa, Helicobacter_bilis
+>Cluster 364
+0	214aa, Rodentibacter_heylii
+1	214aa, Rodentibacter_ratti
+>Cluster 365
+0	214aa, Spirochaetaceae_bacterium
+>Cluster 366
+0	214aa, Actinobacillus_equuli
+1	214aa, Bibersteinia_trehalosi
+>Cluster 367
+0	214aa, Haemophilus_parainfluenzae
+1	214aa, Haemophilus_parainfluenzae
+>Cluster 368
+0	214aa, Conchiformibius_kuhniae
+>Cluster 369
+0	214aa, Conchiformibius_steedae
+>Cluster 370
+0	214aa, Glaesserella
+>Cluster 371
+0	214aa, Haemophilus_seminalis
+1	214aa, Haemophilus_haemolyticus
+2	214aa, Haemophilus_seminalis
+3	214aa, Haemophilus_haemolyticus
+4	214aa, Haemophilus_haemolyticus
+5	214aa, Haemophilus_haemolyticus
+6	214aa, Haemophilus_haemolyticus_M21621
+>Cluster 372
+0	214aa, unclassified_Acinetobacter
+1	214aa, Acinetobacter
+2	214aa, Acinetobacter
+3	214aa, Acinetobacter_cumulans
+4	214aa, Acinetobacter
+5	214aa, Acinetobacter_lwoffii
+6	214aa, Acinetobacter
+7	214aa, Acinetobacter_albensis
+>Cluster 373
+0	214aa, Aggregatibacter_kilianii
+1	155aa, Aggregatibacter_kilianii
+>Cluster 374
+0	214aa, Clostridia_bacterium
+>Cluster 375
+0	214aa, Kingella_kingae
+1	214aa, Kingella_kingae
+2	214aa, Kingella_kingae
+3	214aa, Kingella_kingae
+>Cluster 376
+0	214aa, Spirochaetales_bacterium
+1	214aa, Spirochaetales_bacterium
+>Cluster 377
+0	214aa, Spirochaetaceae_bacterium
+1	214aa, Spirochaetaceae_bacterium
+2	214aa, Treponema
+3	214aa, Spirochaetaceae_bacterium
+4	214aa, Spirochaetaceae_bacterium
+>Cluster 378
+0	214aa, Treponema
+1	214aa, Treponema
+2	214aa, Treponema
+3	214aa, Treponema
+>Cluster 379
+0	214aa, Caminibacter_pacificus
+>Cluster 380
+0	214aa, Treponema
+>Cluster 381
+0	214aa, Treponema
+>Cluster 382
+0	214aa, Paludibacteraceae_bacterium
+>Cluster 383
+0	214aa, Malacoplasma
+>Cluster 384
+0	214aa, Treponema
+1	214aa, Spirochaetia_bacterium
+>Cluster 385
+0	213aa, Bacteroidales_bacterium
+>Cluster 386
+0	213aa, Flavobacteriales_bacterium
+>Cluster 387
+0	213aa, Arcicella
+>Cluster 388
+0	213aa, Flavobacteriales_bacterium
+>Cluster 389
+0	213aa, Salinivirgaceae_bacterium
+>Cluster 390
+0	213aa, Bacteroidales_bacterium
+>Cluster 391
+0	213aa, Flavobacterium_celericrescens
+1	213aa, Flavobacterium
+>Cluster 392
+0	213aa, Albidovulum
+>Cluster 393
+0	213aa, Polyangium
+1	213aa, Polyangium_mundeleinium
+2	213aa, Polyangium_fumosum
+3	213aa, Polyangium_sorediatum
+4	213aa, Polyangium
+>Cluster 394
+0	213aa, Bacteroidales_bacterium
+>Cluster 395
+0	213aa, Flavobacteriales_bacterium
+1	213aa, Flavobacteriales_bacterium
+>Cluster 396
+0	213aa, Dysgonamonadaceae_bacterium
+>Cluster 397
+0	213aa, Acinetobacter
+1	213aa, Acinetobacter_wanghuae
+2	213aa, Acinetobacter_baretiae
+3	213aa, Acinetobacter_pollinis
+4	213aa, Acinetobacter_baumannii
+5	213aa, Acinetobacter
+6	213aa, Acinetobacter
+>Cluster 398
+0	213aa, Fibrobacter
+>Cluster 399
+0	212aa, Clostridia_bacterium
+1	213aa, Clostridia_bacterium
+2	213aa, Ruminococcus
+3	212aa, Corallococcus
+4	212aa, Clostridia_bacterium
+5	212aa, Clostridia_bacterium
+>Cluster 400
+0	213aa, Methylococcales_bacterium
+>Cluster 401
+0	213aa, Desulfovibrio
+>Cluster 402
+0	213aa, Fibromonadaceae_bacterium
+>Cluster 403
+0	213aa, Vibrio_parahaemolyticus
+1	213aa, Vibrio_parahaemolyticus
+2	213aa, Vibrio_parahaemolyticus
+3	213aa, Vibrio_rotiferianus
+4	213aa, Vibrio_parahaemolyticus
+>Cluster 404
+0	213aa, Chitinispirillaceae_bacterium
+>Cluster 405
+0	213aa, Candidatus_Fibromonas
+>Cluster 406
+0	213aa, Pseudodesulfovibrio
+>Cluster 407
+0	213aa, Tolumonas_lignilytica
+>Cluster 408
+0	213aa, Bacteroidales_bacterium
+>Cluster 409
+0	213aa, Maridesulfovibrio_ferrireducens
+>Cluster 410
+0	213aa, Candidatus_Woesearchaeota_archaeon
+>Cluster 411
+0	212aa, Oscillospiraceae_bacterium
+>Cluster 412
+0	209aa, Polyangiaceae_bacterium
+>Cluster 413
+0	205aa, Fusarium_austroafricanum
+>Cluster 414
+0	203aa, Phycisphaerae_bacterium
+>Cluster 415
+0	192aa, Planctomycetota_bacterium
+>Cluster 416
+0	187aa, Bacteroidota_bacterium
+>Cluster 417
+0	187aa, Sorangium_cellulosum
+>Cluster 418
+0	186aa, Microtus_ochrogaster
+1	116aa, Tegillarca_granosa
+>Cluster 419
+0	174aa, Sulfurimonas
+>Cluster 420
+0	169aa, Adelges_cooleyi
+>Cluster 421
+0	165aa, Hyaloscypha
+>Cluster 422
+0	160aa, Chloroflexota_bacterium
+>Cluster 423
+0	159aa, Treponema_zioleckii
+>Cluster 424
+0	88aa, Leptodontidium
+1	130aa, Leptodontidium
+>Cluster 425
+0	119aa, Aquarana_catesbeiana
+>Cluster 426
+0	116aa, Trichechus_manatus_latirostris
+>Cluster 427
+0	86aa, Rotaria_sordida
+>Cluster 428
+0	68aa, Aromia_moschata
