@@ -1,0 +1,264 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=162;
+	taxlabels
+	Amoebozoa_Clust347_1_1_0
+	Filasterea_Clust52_1_1_0
+	Fungi_Clust100_2_2_0
+	Fungi_Clust101_1_1_0
+	Fungi_Clust102_1_1_0
+	Fungi_Clust104_1_1_0
+	Fungi_Clust105_7_0_7---
+	Fungi_Clust107_1_1_0
+	Fungi_Clust108_2_0_2---
+	Fungi_Clust110_2_2_0
+	Fungi_Clust112_1_1_0
+	Fungi_Clust114_1_1_0
+	Fungi_Clust115_2_2_0
+	Fungi_Clust116_1_1_0
+	Fungi_Clust118_1_0_1---
+	Fungi_Clust119_4_0_4---
+	Fungi_Clust120_1_0_1---
+	Fungi_Clust121_1_0_1---
+	Fungi_Clust122_1_1_0
+	Fungi_Clust124_2_2_0
+	Fungi_Clust125_1_1_0
+	Fungi_Clust127_1_1_0
+	Fungi_Clust128_1_0_1---
+	Fungi_Clust129_2_0_2---
+	Fungi_Clust130_4_0_4---
+	Fungi_Clust131_3_3_0
+	Fungi_Clust132_1_1_0
+	Fungi_Clust133_1_0_1---
+	Fungi_Clust135_1_1_0
+	Fungi_Clust136_1_1_0
+	Fungi_Clust137_1_0_1---
+	Fungi_Clust138_1_1_0
+	Fungi_Clust139_1_0_1---
+	Fungi_Clust140_1_1_0
+	Fungi_Clust141_1_1_0
+	Fungi_Clust153_1_1_0
+	Fungi_Clust222_1_0_1---
+	Fungi_Clust33_12_12_0
+	Fungi_Clust345_1_1_0
+	Fungi_Clust346_1_1_0
+	Fungi_Clust34_9_9_0
+	Fungi_Clust35_2_2_0
+	Fungi_Clust36_12_12_0
+	Fungi_Clust37_13_13_0
+	Fungi_Clust38_1_1_0
+	Fungi_Clust39_6_6_0
+	Fungi_Clust40_37_0_37---
+	Fungi_Clust413_1_0_1---
+	Fungi_Clust41_1_1_0
+	Fungi_Clust421_1_1_0
+	Fungi_Clust424_2_2_0
+	Fungi_Clust42_1_0_1---
+	Fungi_Clust43_30_0_30---
+	Fungi_Clust44_1_1_0
+	Fungi_Clust46_3_0_3---
+	Fungi_Clust47_10_10_0
+	Fungi_Clust48_96_0_96---
+	Fungi_Clust50_16_16_0
+	Fungi_Clust51_2_2_0
+	Fungi_Clust53_13_13_0
+	Fungi_Clust54_4_2_2---
+	Fungi_Clust55_3_3_0
+	Fungi_Clust56_8_0_8---
+	Fungi_Clust58_8_4_4---
+	Fungi_Clust59_21_21_0
+	Fungi_Clust60_13_12_1---
+	Fungi_Clust61_1_1_0
+	Fungi_Clust62_4_0_4---
+	Fungi_Clust63_3_3_0
+	Fungi_Clust64_1_1_0
+	Fungi_Clust65_36_30_6---
+	Fungi_Clust66_2_2_0
+	Fungi_Clust67_2_0_2---
+	Fungi_Clust68_1_1_0
+	Fungi_Clust69_1_0_1---
+	Fungi_Clust70_7_0_7---
+	Fungi_Clust71_14_14_0
+	Fungi_Clust73_72_1_71---
+	Fungi_Clust74_2_0_2---
+	Fungi_Clust75_4_4_0
+	Fungi_Clust76_14_14_0
+	Fungi_Clust77_1_1_0
+	Fungi_Clust78_2_2_0
+	Fungi_Clust79_1_1_0
+	Fungi_Clust80_6_6_0
+	Fungi_Clust83_1_1_0
+	Fungi_Clust84_101_82_19---
+	Fungi_Clust85_1_1_0
+	Fungi_Clust86_3_3_0
+	Fungi_Clust87_1_1_0
+	Fungi_Clust88_3_0_3---
+	Fungi_Clust89_4_0_4---
+	Fungi_Clust91_1_0_1---
+	Fungi_Clust93_5_5_0
+	Fungi_Clust94_8_1_7---
+	Fungi_Clust95_7_7_0
+	Fungi_Clust96_1_1_0
+	Haptista_Clust142_1_1_0
+	Haptista_Clust175_1_0_1---
+	Metamonada_Clust277_1_1_0
+	Metazoa_Clust0_1036_1036_0
+	Metazoa_Clust10_5_5_0
+	Metazoa_Clust11_5_5_0
+	Metazoa_Clust12_1_1_0
+	Metazoa_Clust134_1_1_0
+	Metazoa_Clust13_3_3_0
+	Metazoa_Clust14_14_14_0
+	Metazoa_Clust15_4_4_0
+	Metazoa_Clust16_5_5_0
+	Metazoa_Clust17_6_6_0
+	Metazoa_Clust18_4_4_0
+	Metazoa_Clust19_2_2_0
+	Metazoa_Clust1_2_2_0
+	Metazoa_Clust20_1_1_0
+	Metazoa_Clust21_16_16_0
+	Metazoa_Clust22_1_1_0
+	Metazoa_Clust23_1_1_0
+	Metazoa_Clust24_1_1_0
+	Metazoa_Clust25_1_1_0
+	Metazoa_Clust26_1_1_0
+	Metazoa_Clust28_24_24_0
+	Metazoa_Clust2_14_14_0
+	Metazoa_Clust30_3_3_0
+	Metazoa_Clust310_2_2_0
+	Metazoa_Clust32_1_1_0
+	Metazoa_Clust344_1_1_0
+	Metazoa_Clust3_24_24_0
+	Metazoa_Clust418_2_2_0
+	Metazoa_Clust420_1_1_0
+	Metazoa_Clust425_1_1_0
+	Metazoa_Clust426_1_1_0
+	Metazoa_Clust427_1_1_0
+	Metazoa_Clust428_1_1_0
+	Metazoa_Clust49_2_2_0
+	Metazoa_Clust4_6_6_0
+	Metazoa_Clust57_2_2_0
+	Metazoa_Clust5_6_6_0
+	Metazoa_Clust6_6_6_0
+	Metazoa_Clust7_2_2_0
+	Metazoa_Clust81_3_3_0
+	Metazoa_Clust82_1_1_0
+	Metazoa_Clust8_1_1_0
+	Metazoa_Clust98_1_1_0
+	Metazoa_Clust9_12_12_0
+	Rhodophyta_Clust109_1_0_1---
+	Sar_Clust103_2_0_2---
+	Sar_Clust106_1_0_1---
+	Sar_Clust111_1_0_1---
+	Sar_Clust117_1_0_1---
+	Sar_Clust123_1_1_0
+	Sar_Clust126_1_0_1---
+	Sar_Clust27_1_1_0
+	Sar_Clust29_1_1_0
+	Sar_Clust31_6_6_0
+	Sar_Clust45_2_2_0
+	Sar_Clust90_1_0_1---
+	Sar_Clust97_1_1_0
+	Viridiplantae_Clust113_1_1_0
+	Viridiplantae_Clust262_2_2_0
+	Viridiplantae_Clust323_1_1_0
+	Viridiplantae_Clust324_2_2_0
+	Viridiplantae_Clust329_1_1_0
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Metazoa_Clust2_14_14_0:0.13897,(Metazoa_Clust26_1_1_0:0.029286,((Metazoa_Clust134_1_1_0:0.583057,(((Metazoa_Clust0_1036_1036_0:3.0E-6,Metazoa_Clust1_2_2_0:0.068299)[&label=100]:0.131872,(Metazoa_Clust418_2_2_0:0.07124,(Metazoa_Clust426_1_1_0:0.127142,(Metazoa_Clust420_1_1_0:0.373073,(Fungi_Clust141_1_1_0:0.317544,(Fungi_Clust222_1_0_1---:1.808364,Fungi_Clust413_1_0_1---:1.202323)[&label=87]:0.316802)[&label=82]:0.313379)[&label=92]:0.309512)[&label=78]:0.114211)[&label=95]:1.042177)[&label=54]:0.108706,((((Metazoa_Clust23_1_1_0:0.103739,Fungi_Clust421_1_1_0:2.36438)[&label=46]:0.083488,Metazoa_Clust425_1_1_0:0.382259)[&label=47]:0.121955,((Metazoa_Clust7_2_2_0:0.134032,Metazoa_Clust24_1_1_0:0.393091)[&label=99]:0.282112,Metazoa_Clust16_5_5_0:0.14548)[&label=79]:0.281509)[&label=71]:0.294971,(((((Metazoa_Clust32_1_1_0:0.474158,(((((Metazoa_Clust3_24_24_0:0.203964,Metazoa_Clust17_6_6_0:0.348607)[&label=97]:0.102029,(Metazoa_Clust10_5_5_0:0.294013,Metazoa_Clust344_1_1_0:0.239166)[&label=77]:0.070344)[&label=94]:0.061216,((Metazoa_Clust6_6_6_0:0.203052,Metazoa_Clust20_1_1_0:0.115822)[&label=100]:0.19255,((Metazoa_Clust4_6_6_0:0.276116,Metazoa_Clust18_4_4_0:0.338697)[&label=95]:0.07304,Metazoa_Clust15_4_4_0:0.341229)[&label=85]:3.0E-6)[&label=82]:0.056143)[&label=69]:0.049768,Metazoa_Clust5_6_6_0:0.386044)[&label=67]:0.030592,Metazoa_Clust19_2_2_0:0.339984)[&label=92]:0.014081)[&label=36]:0.046583,((((((((((((((Fungi_Clust50_16_16_0:0.308813,(Fungi_Clust59_21_21_0:0.303157,Fungi_Clust61_1_1_0:0.301557)[&label=97]:0.030667)[&label=92]:0.056546,((Fungi_Clust93_5_5_0:0.442226,Fungi_Clust76_14_14_0:0.265549)[&label=85]:0.048898,((Fungi_Clust65_36_30_6---:0.174425,Fungi_Clust125_1_1_0:0.297873)[&label=99]:0.040516,Fungi_Clust131_3_3_0:0.32781)[&label=99]:0.072309)[&label=83]:0.013542)[&label=100]:0.157566,Fungi_Clust71_14_14_0:0.281211)[&label=92]:0.069258,(Fungi_Clust63_3_3_0:0.183405,Fungi_Clust136_1_1_0:0.434132)[&label=100]:0.223134)[&label=89]:0.061761,((((Fungi_Clust51_2_2_0:0.056259,Fungi_Clust138_1_1_0:0.062358)[&label=100]:0.25724,(Fungi_Clust58_8_4_4---:0.080286,Fungi_Clust114_1_1_0:0.103842)[&label=100]:0.24181)[&label=88]:0.047429,Fungi_Clust62_4_0_4---:0.337697)[&label=92]:0.057178,Fungi_Clust77_1_1_0:0.279575)[&label=85]:0.037631)[&label=90]:0.087411,((Fungi_Clust100_2_2_0:0.242702,Fungi_Clust104_1_1_0:0.293723)[&label=100]:0.235451,(((((((((Fungi_Clust48_96_0_96---:0.094942,Fungi_Clust129_2_0_2---:0.16159)[&label=100]:0.12382,(Fungi_Clust137_1_0_1---:0.308186,Fungi_Clust74_2_0_2---:0.20923)[&label=87]:0.135611)[&label=81]:0.061529,(((Fungi_Clust130_4_0_4---:0.128402,Fungi_Clust139_1_0_1---:0.081954)[&label=100]:0.044748,Fungi_Clust73_72_1_71---:0.193903)[&label=100]:0.090839,(Fungi_Clust133_1_0_1---:0.331823,Fungi_Clust119_4_0_4---:0.170626)[&label=85]:0.062228)[&label=53]:0.024671)[&label=52]:0.058708,Fungi_Clust89_4_0_4---:0.378722)[&label=100]:0.157111,(Fungi_Clust60_13_12_1---:0.104416,Fungi_Clust116_1_1_0:0.114213)[&label=99]:0.177305)[&label=73]:0.043178,Fungi_Clust102_1_1_0:0.400939)[&label=98]:0.134675,((Fungi_Clust95_7_7_0:0.198659,(Fungi_Clust122_1_1_0:0.317543,Fungi_Clust346_1_1_0:0.329588)[&label=100]:0.067969)[&label=100]:0.118882,Fungi_Clust94_8_1_7---:0.367578)[&label=98]:0.071427)[&label=38]:0.065782,(Fungi_Clust345_1_1_0:0.292371,Fungi_Clust118_1_0_1---:0.394851)[&label=98]:0.153797)[&label=30]:0.030966,((((Fungi_Clust84_101_82_19---:0.137681,Fungi_Clust132_1_1_0:0.957249)[&label=44]:0.052841,Fungi_Clust115_2_2_0:0.372808)[&label=35]:0.065477,(Fungi_Clust101_1_1_0:0.400155,(Fungi_Clust124_2_2_0:0.45334,Fungi_Clust140_1_1_0:0.208596)[&label=99]:0.144746)[&label=96]:0.06115)[&label=96]:0.061731,Viridiplantae_Clust113_1_1_0:0.434898)[&label=100]:0.133385)[&label=92]:0.070985)[&label=70]:0.016053)[&label=81]:0.051288,((Fungi_Clust80_6_6_0:0.409103,Fungi_Clust85_1_1_0:0.367232)[&label=99]:0.150807,Fungi_Clust75_4_4_0:0.831035)[&label=85]:0.09544)[&label=87]:0.026396,(((Fungi_Clust79_1_1_0:0.420511,Fungi_Clust112_1_1_0:0.394096)[&label=100]:0.27519,(((((Fungi_Clust37_13_13_0:0.270147,Fungi_Clust83_1_1_0:0.287065)[&label=88]:0.069622,(Fungi_Clust66_2_2_0:0.036299,Fungi_Clust153_1_1_0:0.060334)[&label=100]:0.249027)[&label=98]:0.095963,Fungi_Clust55_3_3_0:0.300207)[&label=95]:0.012489,(Fungi_Clust107_1_1_0:0.24511,Fungi_Clust110_2_2_0:0.352953)[&label=100]:0.194631)[&label=97]:0.096303,(Fungi_Clust78_2_2_0:0.413449,Metazoa_Clust98_1_1_0:0.397655)[&label=98]:0.163934)[&label=96]:0.048922)[&label=96]:0.073941,((Fungi_Clust44_1_1_0:0.51928,Fungi_Clust64_1_1_0:0.420109)[&label=92]:0.137272,((((Fungi_Clust40_37_0_37---:0.215058,Fungi_Clust120_1_0_1---:0.182897)[&label=98]:0.054257,(((Fungi_Clust67_2_0_2---:0.229873,Fungi_Clust54_4_2_2---:0.282023)[&label=97]:0.090433,Fungi_Clust88_3_0_3---:0.240745)[&label=96]:0.056478,(((Fungi_Clust105_7_0_7---:0.113512,Fungi_Clust121_1_0_1---:0.331319)[&label=100]:0.057532,(Fungi_Clust43_30_0_30---:0.272539,Fungi_Clust56_8_0_8---:0.285204)[&label=100]:0.099684)[&label=100]:0.124523,Fungi_Clust70_7_0_7---:0.235778)[&label=100]:0.067614)[&label=90]:0.02634)[&label=100]:0.200468,((Fungi_Clust46_3_0_3---:0.23881,Fungi_Clust69_1_0_1---:0.297406)[&label=98]:0.05169,((Fungi_Clust108_2_0_2---:0.141785,Fungi_Clust128_1_0_1---:0.336272)[&label=99]:0.040154,Fungi_Clust91_1_0_1---:0.4241)[&label=100]:0.261973)[&label=99]:0.109697)[&label=100]:0.212799,((((((Sar_Clust111_1_0_1---:0.320979,Sar_Clust117_1_0_1---:0.219103)[&label=100]:0.187698,Rhodophyta_Clust109_1_0_1---:0.25664)[&label=98]:0.103273,Sar_Clust90_1_0_1---:0.359742)[&label=87]:0.021834,(Sar_Clust103_2_0_2---:0.29157,Sar_Clust106_1_0_1---:0.280178)[&label=99]:0.129847)[&label=100]:0.228864,Sar_Clust126_1_0_1---:0.477756)[&label=99]:0.223253,(Sar_Clust123_1_1_0:0.469761,((Haptista_Clust175_1_0_1---:0.489077,((((Viridiplantae_Clust324_2_2_0:0.208348,Viridiplantae_Clust329_1_1_0:0.539013)[&label=91]:0.473221,Viridiplantae_Clust323_1_1_0:1.098444)[&label=91]:1.553978,Viridiplantae_Clust262_2_2_0:0.088172)[&label=91]:1.188385,Haptista_Clust142_1_1_0:3.597882)[&label=97]:0.413944)[&label=69]:0.088691,(Fungi_Clust135_1_1_0:0.606413,Metamonada_Clust277_1_1_0:2.491947)[&label=86]:0.435628)[&label=90]:0.112228)[&label=98]:0.555318)[&label=89]:0.207032)[&label=71]:0.033887)[&label=92]:0.158834)[&label=72]:0.054465)[&label=72]:0.028216,((((((Fungi_Clust34_9_9_0:0.269826,Fungi_Clust127_1_1_0:0.41415)[&label=99]:0.084365,Fungi_Clust38_1_1_0:0.313196)[&label=99]:0.074561,Fungi_Clust47_10_10_0:0.41095)[&label=68]:0.035058,(Fungi_Clust35_2_2_0:0.291094,Fungi_Clust68_1_1_0:0.392676)[&label=57]:0.1247)[&label=35]:0.036946,(Fungi_Clust96_1_1_0:0.427831,((Fungi_Clust36_12_12_0:0.231932,Fungi_Clust42_1_0_1---:0.337725)[&label=92]:0.084137,(Fungi_Clust53_13_13_0:0.312334,(Fungi_Clust86_3_3_0:0.297769,Fungi_Clust87_1_1_0:0.522488)[&label=99]:0.088793)[&label=99]:0.104921)[&label=86]:0.037586)[&label=17]:0.019015)[&label=80]:0.048232,(Fungi_Clust33_12_12_0:0.307683,(Fungi_Clust39_6_6_0:0.418205,Fungi_Clust41_1_1_0:0.350945)[&label=86]:0.10883)[&label=76]:0.061288)[&label=96]:0.144238)[&label=86]:0.102316,(Metazoa_Clust57_2_2_0:0.358279,Metazoa_Clust81_3_3_0:0.328921)[&label=100]:0.264037)[&label=82]:0.06959,Metazoa_Clust30_3_3_0:0.418703)[&label=95]:0.107571,(Sar_Clust31_6_6_0:0.273296,Sar_Clust45_2_2_0:0.405156)[&label=100]:0.305606)[&label=71]:0.042136,((Filasterea_Clust52_1_1_0:0.33677,Sar_Clust97_1_1_0:0.864051)[&label=97]:0.213049,((Metazoa_Clust28_24_24_0:2.0E-6,Metazoa_Clust427_1_1_0:0.173085)[&label=100]:0.235845,Metazoa_Clust49_2_2_0:0.319442)[&label=100]:0.280542)[&label=95]:0.122734)[&label=56]:0.038193,(Sar_Clust29_1_1_0:0.541782,Sar_Clust27_1_1_0:0.497056)[&label=53]:0.104718)[&label=93]:0.047816)[&label=35]:0.015613,(Metazoa_Clust8_1_1_0:0.416704,((Metazoa_Clust14_14_14_0:0.165869,Metazoa_Clust25_1_1_0:0.396705)[&label=99]:0.109278,Metazoa_Clust22_1_1_0:0.377868)[&label=97]:0.072141)[&label=89]:0.066065)[&label=53]:0.029585,Metazoa_Clust21_16_16_0:0.449636)[&label=48]:0.005543,((Metazoa_Clust9_12_12_0:0.245612,Metazoa_Clust13_3_3_0:0.323958)[&label=98]:0.061743,Metazoa_Clust11_5_5_0:0.325914)[&label=61]:0.020395)[&label=96]:0.202723)[&label=52]:0.122218)[&label=75]:0.39013)[&label=76]:0.812315,(Amoebozoa_Clust347_1_1_0:6.462865,(((Metazoa_Clust12_1_1_0:0.842825,Metazoa_Clust428_1_1_0:0.968601)[&label=96]:1.552373,Metazoa_Clust310_2_2_0:4.477361)[&label=97]:1.264224,Fungi_Clust424_2_2_0:1.561214)[&label=64]:2.0E-6)[&label=72]:1.291335)[&label=99]:1.229536)[&label=99]:0.326825,Metazoa_Clust82_1_1_0:0.468775);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
